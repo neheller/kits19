@@ -3,9 +3,11 @@
 The official [2019 KiTS Challenge](kits19.grand-challenge.org) repository.
 
 ## Before Cloning
-This repository makes use of git-lfs. **Make sure to [install git-lfs](https://git-lfs.github.com/) before cloning!** It's very lightweight and works with Windows, Mac, and Linux. 
-
-I'd recommend downloading and running the installer rather than using PackageCloud. 
+This repository makes use of git-lfs. **Make sure to [install git-lfs](https://git-lfs.github.com/) before cloning!** It's very lightweight and works with Windows, Mac, and Linux. For Linux users, I'd recommend downloading and running the installer rather than using PackageCloud. You can verify the initialization by running 
+```
+user@host~$ git lfs --version
+git-lfs/2.7.1 (GitHub; linux amd64; go 1.12; git 6b7fb6e3)
+```
 
 ## Usage
 
