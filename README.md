@@ -69,7 +69,7 @@ visualize(123, <destination (str)>)
 
 ### Voxel Spacing
 
-Each `Nift1Image` object has a field called `affine`. This is a 4x4 matrix, and in our case, it takes the value `np.fill_diagonal([slice_thickness, pixel_width, pixel_width, 1])`. This information is also available in `data/kits.json`. Since this data was collected during routine clinical practice from many centers, these values vary quite a bit.
+Each `Nift1Image` object has an attribute called `affine`. This is a 4x4 matrix, and in our case, it takes the value `np.fill_diagonal([slice_thickness, pixel_width, pixel_width, 1])`. This information is also available in `data/kits.json`. Since this data was collected during routine clinical practice from many centers, these values vary quite a bit.
 
 If there's interest, we're happy to create a branch with the data/segmentations transformed and interpolated to a fixed spacing (or perhaps several with one for each spacing). Let us know on [this issue](https://github.com/neheller/kits19_private/issues/1) if this would be useful to you.
 
