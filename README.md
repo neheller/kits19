@@ -45,6 +45,8 @@ volume, segmentation = load_case(123)
 
 Will give you two `Nifty1Image`s. Their shapes will be `(num_slices, height, width)`, and their pixel datatypes will be `np.float32` and `np.uint8` respectively. In the segmentation, a value of 0 represents background, 1 represents kidney, and 2 represents tumor.
 
+For information about using `Nifty1Image`s, see the [Nibabel Documentation](https://nipy.org/nibabel/manual.html#manual) ([Getting Started](https://nipy.org/nibabel/gettingstarted.html))
+
 ### Visualizing Data
 
 The `visualize.py` file will dump a series of PNG files depicting a case's imaging with the segmentation label overlayed. By default, red represents kidney and blue represents tumor.
@@ -77,4 +79,4 @@ If there's interest, we're happy to create a branch with the data/segmentations 
 
 We've gone to great lengths to produce the best segmentation labels that we could. That said, *we're certainly not perfect*. In an attempt to strike a balance between quality and stability, we've decided on the following policy: 
 
-If you find an problem with the data, please [submit an issue](https://github.com/neheller/kits19/issues/new) describing it. We will do our best to address all issues *submitted prior to April 5, 2019* by April 15. After that, the data and labels will be set in stone until the MICCAI deadline of August 1. You're welcome to keep submitting issues on this topic after April 5, but the fixes will not be made available until after the 2019 challenge.
+If you find an problem with the data, please [submit an issue](https://github.com/neheller/kits19/issues/new) describing it. We will do our best to address all issues *submitted prior to April 5, 2019* by April 15. After that, the data and labels will be set in stone until the MICCAI deadline of July 29. You're welcome to keep submitting issues on this topic after April 5, but the fixes will not be made available until after the 2019 challenge.
