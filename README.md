@@ -82,3 +82,15 @@ If there's interest, we're happy to create a branch with the data/segmentations 
 We've gone to great lengths to produce the best segmentation labels that we could. That said, *we're certainly not perfect*. In an attempt to strike a balance between quality and stability, we've decided on the following policy: 
 
 If you find an problem with the data, please [submit an issue](https://github.com/neheller/kits19/issues/new) describing it. We will do our best to address all issues *submitted prior to April 5, 2019* by April 15. After that, the data and labels will be set in stone until the MICCAI deadline of July 29. You're welcome to keep submitting issues on this topic after April 5, but the fixes will not be made available until after the 2019 challenge.
+
+### Reference
+
+If this data is useful to your research, please cite the following [manuscript](https://arxiv.org/abs/1904.00445)
+```
+@misc{1904.00445,
+Author = {Nicholas Heller and Niranjan Sathianathen and Arveen Kalapara and Edward Walczak and Keenan Moore and Heather Kaluzniak and Joel Rosenberg and Paul Blake and Zachary Rengel and Makinna Oestreich and Joshua Dean and Michael Tradewell and Aneri Shah and Resha Tejpaul and Zachary Edgerton and Matthew Peterson and Shaneabbas Raza and Subodh Regmi and Nikolaos Papanikolopoulos and Christopher Weight},
+Title = {The KiTS19 Challenge Data: 300 Kidney Tumor Cases with Clinical Context, CT Semantic Segmentations, and Surgical Outcomes},
+Year = {2019},
+Eprint = {arXiv:1904.00445},
+}
+```
