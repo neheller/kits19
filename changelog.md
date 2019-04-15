@@ -6,7 +6,7 @@
   * `visualize.py` now allows for a `--plane` argument (`-p`) where you can specify `axial`, `coronal`, or `sagittal`.
   * The pixels will be interpolated to an aspect ratio consistent with the real world in all cases.
 * Cropped cases 22, 61, and 117
-  * These had series at a different contrast phase appended to the end of their z-dimension ([#6](https://github.com/neheller/kits19/issues/6)).
+  * These had a second series at a different contrast phase appended to the end of their z-dimensions ([#6](https://github.com/neheller/kits19/issues/6)).
 * Parapelvic cysts and hydronephrosis were corrected
   * Case 155 had a cyst that was originally mistaken for hydro ([#10](https://github.com/neheller/kits19/issues/10)).
   * Case 166 had hydro that was originally mistaken for a cyst  ([#11](https://github.com/neheller/kits19/issues/11)).
