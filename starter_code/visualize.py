@@ -96,7 +96,7 @@ def visualize(cid, destination, hu_min=DEFAULT_HU_MIN, hu_max=DEFAULT_HU_MAX,
     if plane == plane_opts[1]:
         # I use sum here to account for both legacy (incorrect) and 
         # fixed affine matrices
-        spc_ratio = np.sum(spacing[0,:])/np.sum(spacing[2,:])
+        spc_ratio = np.abs(np.sum(spacing[2,:]))/np.abs(np.sum(spacing[0,:]))
         for i in range(vol_ims.shape[1]):
             fpath = out_path / ("{:05d}.png".format(i))
             vol_im = scipy.misc.imresize(
@@ -123,7 +123,7 @@ def visualize(cid, destination, hu_min=DEFAULT_HU_MIN, hu_max=DEFAULT_HU_MAX,
     if plane == plane_opts[2]:
         # I use sum here to account for both legacy (incorrect) and 
         # fixed affine matrices
-        spc_ratio = np.sum(spacing[0,:])/np.sum(spacing[1,:])
+        spc_ratio = np.abs(np.sum(spacing[2,:]))/np.abs(np.sum(spacing[1,:]))
         for i in range(vol_ims.shape[2]):
             fpath = out_path / ("{:05d}.png".format(i))
             vol_im = scipy.misc.imresize(
