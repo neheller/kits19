@@ -73,9 +73,31 @@ visualize(123, <destination (str)>)
 
 ### Voxel Spacing
 
-Each `Nift1Image` object has an attribute called `affine`. This is a 4x4 matrix, and in our case, it takes the value `np.fill_diagonal([slice_thickness, pixel_width, pixel_width, 1])`. This information is also available in `data/kits.json`. Since this data was collected during routine clinical practice from many centers, these values vary quite a bit.
+Each `Nift1Image` object has an attribute called `affine`. This is a 4x4 matrix, and in our case, it takes the value
+```
+array([[0.                          , 0.                      , -1*captured_pixel_width , 0. ],
+       [0.                          , -1*captured_pixel_width , 0.                      , 0. ],
+       [-1*captured_slice_thickness , 0.                      , 0.                      , 0. ],
+       [0.                          , 0.                      , 0.                      , 1. ]])
+```
+This information is also available in `data/kits.json`. Since this data was collected during routine clinical practice from many centers, these values vary quite a bit.
 
-If there's interest, we're happy to create a branch with the data/segmentations transformed and interpolated to a fixed spacing (or perhaps several with one for each spacing). Let us know on [this issue](https://github.com/neheller/kits19/issues/1) if this would be useful to you.
+Since spatially inconsistent data might not be ideal for machine learning applications, we have created a branch called `interpolated` with the same data but with the same affine transformation for each patient.
+```
+array([[ 0.        ,  0.        , -0.78162497,  0.        ],
+       [ 0.        , -0.78162497,  0.        ,  0.        ],
+       [-3.        ,  0.        ,  0.        ,  0.        ],
+       [ 0.        ,  0.        ,  0.        ,  1.        ]])
+```
+If you have already cloned the repository and would like to download the interpolated data, use the following from your repository root:
+```
+git fetch
+git checkout origin/interpolated
+```
+If you have not yet cloned the repository, and you'd like to download the interpolated data only (~50GB), then you can use the following:
+```
+git clone -b interpolated --single-branch https://github.com/neheller/kits19
+```
 
 ### Labeling Errors
 
