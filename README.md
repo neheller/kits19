@@ -101,6 +101,8 @@ git clone -b interpolated --single-branch https://github.com/neheller/kits19
 
 ### Labeling Errors
 
+**The data is now frozen until the challenge deadline of July 29.**
+
 We've gone to great lengths to produce the best segmentation labels that we could. That said, *we're certainly not perfect*. In an attempt to strike a balance between quality and stability, we've decided on the following policy: 
 
 If you find an problem with the data, please [submit an issue](https://github.com/neheller/kits19/issues/new) describing it. We will do our best to address all issues *submitted prior to April 5, 2019* by April 15. After that, the data and labels will be set in stone until the MICCAI deadline of July 29. You're welcome to keep submitting issues on this topic after April 5, but the fixes will not be made available until after the 2019 challenge.
