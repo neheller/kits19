@@ -2,16 +2,16 @@
 
 The official [2019 KiTS Challenge](https://kits19.grand-challenge.org) repository.
 
-## Before Cloning
-This repository makes use of git-lfs. **Make sure to [install git-lfs](https://git-lfs.github.com/) before cloning!** It's very lightweight and works with Windows, Mac, and Linux. For Linux users, I'd recommend downloading and running the installer rather than using PackageCloud. You can verify the initialization by running 
-```
-user@host~$ git lfs --version
-git-lfs/2.7.1 (GitHub; linux amd64; go 1.12; git 6b7fb6e3)
-```
-
 ## Usage
 
-To get the data for this challenge, please clone this repository (~20G). The `data/` directory is structured as follows
+To get the data for this challenge, please clone this repository (~500MB), and then run `get_imaging.py`. For example
+```text
+git clone https://github.com/neheller/kits19
+cd kits19
+pip3 install -r requirements.txt
+python3 -m starter_code.get_imaging
+```
+This will download the much larger and static image files from a separate source. The `data/` directory should then be structured as follows
 
 ```
 data
@@ -28,12 +28,7 @@ data
 └── kits.json
 ```
 
-We've provided some basic Python scripts in `starter_code/` for loading and/or visualizing the data. They require the following:
-
-* Python >= 3.5.2
-* [scipy](https://www.scipy.org/)
-* [numpy](http://www.numpy.org/)
-* [nibabel](https://nipy.org/nibabel/)
+We've provided some basic Python scripts in `starter_code/` for loading and/or visualizing the data. 
 
 ### Loading Data
 
@@ -89,23 +84,12 @@ array([[ 0.        ,  0.        , -0.78162497,  0.        ],
        [-3.        ,  0.        ,  0.        ,  0.        ],
        [ 0.        ,  0.        ,  0.        ,  1.        ]])
 ```
-If you have already cloned the repository and would like to download the interpolated data, use the following from your repository root:
-```
-git fetch
-git checkout origin/interpolated
-```
-If you have not yet cloned the repository, and you'd like to download the interpolated data only (~50GB), then you can use the following:
-```
-git clone -b interpolated --single-branch https://github.com/neheller/kits19
-```
 
 ### Labeling Errors
 
-**The data is now frozen until the challenge deadline of July 29.**
-
 We've gone to great lengths to produce the best segmentation labels that we could. That said, *we're certainly not perfect*. In an attempt to strike a balance between quality and stability, we've decided on the following policy: 
 
-If you find an problem with the data, please [submit an issue](https://github.com/neheller/kits19/issues/new) describing it. We will do our best to address all issues *submitted prior to April 5, 2019* by April 15. After that, the data and labels will be set in stone until the MICCAI deadline of July 29. You're welcome to keep submitting issues on this topic after April 5, but the fixes will not be made available until after the 2019 challenge.
+If you find an problem with the data, please [submit an issue](https://github.com/neheller/kits19/issues/new) describing it. 
 
 ### Reference
 
