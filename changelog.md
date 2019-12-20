@@ -1,6 +1,12 @@
 # KiTS19 Changelog
 
-## April 15 -- Amended Training Data Release
+## December 20, 2019 -- Label Corrections from After the Freeze
+* Removed a fluid collection in spleen from kidney label of case_00015
+* A large cystic lesion in case_00037 has been relabeled from 'cyst' to tumor
+* Location and extents of tumors in cases 23 and 125 were fixed
+
+
+## April 15, 2019 -- Amended Training Data Release
 
 * Improved visualization
   * `visualize.py` now allows for a `--plane` argument (`-p`) where you can specify `axial`, `coronal`, or `sagittal`.
@@ -24,6 +30,6 @@
   * In the initial release, the slice thickness was incorrect for many thin-cut cases  ([#8](https://github.com/neheller/kits19/issues/8)).
   * In the initial release, the affine matrices were incorrectly flipped along the horizontal axis  ([#9](https://github.com/neheller/kits19/issues/9)).
 
-## March 15 -- Initial Training Data Release
+## March 15, 2019  -- Initial Training Data Release
 
 * 210 Cases in original spacing were added, along with some starter code to visualize the imaging and segmentation labels in the axial plane.
