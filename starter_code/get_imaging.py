@@ -14,8 +14,10 @@ temp_f = Path(__file__).parent / "temp.tmp"
 
 
 def get_destination(i):
-    destination = (Path("__file__").parent.parent /\
-        "data" / "case_{:05d}".format(i)).resolve() / "imaging.nii.gz"
+    destination = Path("__file__").parent.parent /\
+        "data" / "case_{:05d}".format(i) / "imaging.nii.gz"
+    if not destination.parent.exists():
+        destination.parent.mkdir()
     return destination
 
 
