@@ -8,7 +8,7 @@ To get the data for this challenge, please clone this repository (~500MB), and t
 ```text
 git clone https://github.com/neheller/kits19
 cd kits19
-pip3 install requirements.txt
+pip3 install -r requirements.txt
 python3 -m starter_code.get_imaging
 ```
 This will download the much larger and static image files from a separate source. The `data/` directory should then be structured as follows
