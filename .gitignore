@@ -1,3 +1,4 @@
 *__pycache__*
 .vscode*
 data/case_*/imaging.nii.gz
+*.tmp
