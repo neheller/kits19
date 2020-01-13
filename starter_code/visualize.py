@@ -3,6 +3,7 @@ import argparse
 
 import scipy.misc
 import numpy as np
+from imageio import imwrite
 
 from starter_code.utils import load_case
 
@@ -91,7 +92,7 @@ def visualize(cid, destination, hu_min=DEFAULT_HU_MIN, hu_max=DEFAULT_HU_MAX,
         viz_ims = overlay(vol_ims, seg_ims, seg, alpha)
         for i in range(viz_ims.shape[0]):
             fpath = out_path / ("{:05d}.png".format(i))
-            scipy.misc.imsave(str(fpath), viz_ims[i])
+            imwrite(str(fpath), viz_ims[i])
 
     if plane == plane_opts[1]:
         # I use sum here to account for both legacy (incorrect) and 
@@ -118,7 +119,7 @@ def visualize(cid, destination, hu_min=DEFAULT_HU_MIN, hu_max=DEFAULT_HU_MAX,
                 ), interp="nearest"
             )
             viz_im = overlay(vol_im, seg_im, sim, alpha)
-            scipy.misc.imsave(str(fpath), viz_im)
+            imwrite(str(fpath), viz_im)
 
     if plane == plane_opts[2]:
         # I use sum here to account for both legacy (incorrect) and 
@@ -145,7 +146,7 @@ def visualize(cid, destination, hu_min=DEFAULT_HU_MIN, hu_max=DEFAULT_HU_MAX,
                 ), interp="nearest"
             )
             viz_im = overlay(vol_im, seg_im, sim, alpha)
-            scipy.misc.imsave(str(fpath), viz_im)
+            imwrite(str(fpath), viz_im)
 
 
 if __name__ == '__main__':
