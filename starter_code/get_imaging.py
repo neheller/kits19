@@ -62,23 +62,24 @@ if __name__ == "__main__":
                     print("Max retries exceeded")
                     sys.exit()
 
-        with temp_f.open("wb") as f:
-            bar = tqdm(
-                unit="KB", 
-                desc="case_{:05d}".format(cid), 
-                total=int(
-                    np.ceil(int(response.headers["content-length"])/chnksz)
+        success = False
+        try:
+            with temp_f.open("wb") as f:
+                bar = tqdm(
+                    unit="KB", 
+                    desc="case_{:05d}".format(cid), 
+                    total=int(
+                        np.ceil(int(response.headers["content-length"])/chnksz)
+                    )
                 )
-            )
-            try:
                 for pkg in response.iter_content(chunk_size=chnksz):
                     f.write(pkg)
                     bar.update(int(len(pkg)/chnksz))
 
-                move(str(temp_f), str(destination))
                 bar.close()
-            except KeyboardInterrupt:
-                cleanup(bar, "KeyboardInterrupt")
-            except Exception as e:
-                cleanup(bar, str(e))
-
+                success = True
+            move(str(temp_f), str(destination))
+        except KeyboardInterrupt:
+            cleanup(bar, "KeyboardInterrupt")
+        except Exception as e:
+            cleanup(bar, str(e))
