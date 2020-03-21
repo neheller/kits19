@@ -62,7 +62,6 @@ if __name__ == "__main__":
                     print("Max retries exceeded")
                     sys.exit()
 
-        success = False
         try:
             with temp_f.open("wb") as f:
                 bar = tqdm(
@@ -77,7 +76,6 @@ if __name__ == "__main__":
                     bar.update(int(len(pkg)/chnksz))
 
                 bar.close()
-                success = True
             move(str(temp_f), str(destination))
         except KeyboardInterrupt:
             cleanup(bar, "KeyboardInterrupt")
