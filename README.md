@@ -91,9 +91,21 @@ We've gone to great lengths to produce the best segmentation labels that we coul
 
 If you find an problem with the data, please [submit an issue](https://github.com/neheller/kits19/issues/new) describing it. 
 
+## Challenge Results
+
+The KiTS19 challenge was held in conjunction with MICCAI 2019 in Shenzhen, China. The official leaderboard for the challenge can be found [here](http://results.kits-challenge.org/miccai2019/), and the live leaderboard for new submissions can be found [on grand-challenge.org](https://kits19.grand-challenge.org/evaluation/results/). A paper describing the results and conclusions of the challenge is under review at Medical Image Analysis. A preprint can be found [on arxiv](https://arxiv.org/abs/1912.01054) and is citable as
+```
+@article{heller2019state,
+  title={The state of the art in kidney and kidney tumor segmentation in contrast-enhanced CT imaging: Results of the KiTS19 Challenge},
+  author={Heller, Nicholas and Isensee, Fabian and Maier-Hein, Klaus H and Hou, Xiaoshuai and Xie, Chunmei and Li, Fengyi and Nan, Yang and Mu, Guangrui and Lin, Zhiyong and Han, Miofei and others},
+  journal={arXiv preprint arXiv:1912.01054},
+  year={2019}
+}
+```
+
 ### Reference
 
-If this data is useful to your research, please cite the following [manuscript](https://arxiv.org/abs/1904.00445)
+An in-depth description of how this data was collected and annotated can be found on arxiv [here](https://arxiv.org/abs/1904.00445). If this data is useful to your research, please cite this as
 ```
 @misc{1904.00445,
 Author = {Nicholas Heller and Niranjan Sathianathen and Arveen Kalapara and Edward Walczak and Keenan Moore and Heather Kaluzniak and Joel Rosenberg and Paul Blake and Zachary Rengel and Makinna Oestreich and Joshua Dean and Michael Tradewell and Aneri Shah and Resha Tejpaul and Zachary Edgerton and Matthew Peterson and Shaneabbas Raza and Subodh Regmi and Nikolaos Papanikolopoulos and Christopher Weight},
