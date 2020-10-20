@@ -91,20 +91,19 @@ We've gone to great lengths to produce the best segmentation labels that we coul
 
 If you find an problem with the data, please [submit an issue](https://github.com/neheller/kits19/issues/new) describing it. 
 
-## Challenge Results
+## Challenge Results and References
 
-The KiTS19 challenge was held in conjunction with MICCAI 2019 in Shenzhen, China. The official leaderboard for the challenge can be found [here](http://results.kits-challenge.org/miccai2019/), and the live leaderboard for new submissions can be found [on grand-challenge.org](https://kits19.grand-challenge.org/evaluation/results/). A paper describing the results and conclusions of the challenge is under review at Medical Image Analysis. A preprint can be found [on arxiv](https://arxiv.org/abs/1912.01054) and is citable as
+The KiTS19 challenge was held in conjunction with MICCAI 2019 in Shenzhen, China. The official leaderboard for the challenge can be found [here](http://results.kits-challenge.org/miccai2019/), and the live leaderboard for new submissions can be found [on grand-challenge.org](https://kits19.grand-challenge.org/evaluation/results/). [A paper](https://www.sciencedirect.com/science/article/pii/S1361841520301857) describing the results and conclusions of the challenge has been accepted at Medical Image Analysis, and is citable as
 ```
-@article{heller2019state,
+@article{heller2020state,
   title={The state of the art in kidney and kidney tumor segmentation in contrast-enhanced CT imaging: Results of the KiTS19 Challenge},
   author={Heller, Nicholas and Isensee, Fabian and Maier-Hein, Klaus H and Hou, Xiaoshuai and Xie, Chunmei and Li, Fengyi and Nan, Yang and Mu, Guangrui and Lin, Zhiyong and Han, Miofei and others},
-  journal={arXiv preprint arXiv:1912.01054},
-  year={2019}
+  journal={Medical Image Analysis},
+  pages={101821},
+  year={2020},
+  publisher={Elsevier}
 }
 ```
-
-### Reference
-
 An in-depth description of how this data was collected and annotated can be found on arxiv [here](https://arxiv.org/abs/1904.00445). If this data is useful to your research, please cite this as
 ```
 @misc{1904.00445,
