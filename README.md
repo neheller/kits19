@@ -93,7 +93,10 @@ If you find an problem with the data, please [submit an issue](https://github.co
 
 ## Challenge Results and References
 
-The KiTS19 challenge was held in conjunction with MICCAI 2019 in Shenzhen, China. The official leaderboard for the challenge can be found [here](http://results.kits-challenge.org/miccai2019/), and the live leaderboard for new submissions can be found [on grand-challenge.org](https://kits19.grand-challenge.org/evaluation/results/). [A paper](https://www.sciencedirect.com/science/article/pii/S1361841520301857) describing the results and conclusions of the challenge has been accepted at Medical Image Analysis, and is citable as
+The KiTS19 challenge was held in conjunction with MICCAI 2019 in Shenzhen, China. The official leaderboard for the challenge can be found [here](http://results.kits-challenge.org/miccai2019/), and the live leaderboard for new submissions can be found [on grand-challenge.org](https://kits19.grand-challenge.org/evaluation/results/). 
+
+[A paper](https://www.sciencedirect.com/science/article/pii/S1361841520301857) describing the results and conclusions of the challenge has been accepted at Medical Image Analysis. For further reading, an in-depth description of how the dataset was collected an annotated can be found [on arxiv](https://arxiv.org/abs/1904.00445). If this data is useful to your research, please cite these papers as
+
 ```
 @article{heller2020state,
   title={The state of the art in kidney and kidney tumor segmentation in contrast-enhanced CT imaging: Results of the KiTS19 Challenge},
@@ -103,9 +106,6 @@ The KiTS19 challenge was held in conjunction with MICCAI 2019 in Shenzhen, China
   year={2020},
   publisher={Elsevier}
 }
-```
-An in-depth description of how this data was collected and annotated can be found on arxiv [here](https://arxiv.org/abs/1904.00445). If this data is useful to your research, please cite this as
-```
 @misc{1904.00445,
 Author = {Nicholas Heller and Niranjan Sathianathen and Arveen Kalapara and Edward Walczak and Keenan Moore and Heather Kaluzniak and Joel Rosenberg and Paul Blake and Zachary Rengel and Makinna Oestreich and Joshua Dean and Michael Tradewell and Aneri Shah and Resha Tejpaul and Zachary Edgerton and Matthew Peterson and Shaneabbas Raza and Subodh Regmi and Nikolaos Papanikolopoulos and Christopher Weight},
 Title = {The KiTS19 Challenge Data: 300 Kidney Tumor Cases with Clinical Context, CT Semantic Segmentations, and Surgical Outcomes},
