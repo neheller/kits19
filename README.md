@@ -106,10 +106,10 @@ The KiTS19 challenge was held in conjunction with MICCAI 2019 in Shenzhen, China
   year={2020},
   publisher={Elsevier}
 }
-@misc{1904.00445,
-Author = {Nicholas Heller and Niranjan Sathianathen and Arveen Kalapara and Edward Walczak and Keenan Moore and Heather Kaluzniak and Joel Rosenberg and Paul Blake and Zachary Rengel and Makinna Oestreich and Joshua Dean and Michael Tradewell and Aneri Shah and Resha Tejpaul and Zachary Edgerton and Matthew Peterson and Shaneabbas Raza and Subodh Regmi and Nikolaos Papanikolopoulos and Christopher Weight},
-Title = {The KiTS19 Challenge Data: 300 Kidney Tumor Cases with Clinical Context, CT Semantic Segmentations, and Surgical Outcomes},
-Year = {2019},
-Eprint = {arXiv:1904.00445},
+@article{heller2019kits19,
+  title={The kits19 challenge data: 300 kidney tumor cases with clinical context, ct semantic segmentations, and surgical outcomes},
+  author={Heller, Nicholas and Sathianathen, Niranjan and Kalapara, Arveen and Walczak, Edward and Moore, Keenan and Kaluzniak, Heather and Rosenberg, Joel and Blake, Paul and Rengel, Zachary and Oestreich, Makinna and others},
+  journal={arXiv preprint arXiv:1904.00445},
+  year={2019}
 }
 ```
