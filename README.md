@@ -2,6 +2,10 @@
 
 The official [2019 KiTS Challenge](https://kits19.grand-challenge.org) repository.
 
+**Note**: The 2021 iteration of this challenge is in progress!
+- [KiTS21 GitHub](https://github.com/neheller/kits21)
+- [KiTS21 Homepage](https://kits21.kits-challenge.org/) (unfinished)
+
 ## Usage
 
 To get the data for this challenge, please clone this repository (~500MB), and then run `get_imaging.py`. For example
