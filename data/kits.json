@@ -69,7 +69,12 @@
       "days_before_nephrectomy": 1420
     },
     "vital_status": "censored",
-    "vital_days_after_surgery": 1420
+    "vital_days_after_surgery": 1420,
+    "voxel_spacing": {
+      "x_spacing": 0.919921875,
+      "y_spacing": 0.919921875,
+      "z_spacing": 0.5
+    }
   },
   {
     "case_id": "case_00001",
@@ -141,7 +146,12 @@
       "days_before_nephrectomy": 1401
     },
     "vital_status": "censored",
-    "vital_days_after_surgery": 1401
+    "vital_days_after_surgery": 1401,
+    "voxel_spacing": {
+      "x_spacing": 0.798828125,
+      "y_spacing": 0.798828125,
+      "z_spacing": 0.5
+    }
   },
   {
     "case_id": "case_00002",
@@ -213,7 +223,12 @@
       "days_before_nephrectomy": 1185
     },
     "vital_status": "censored",
-    "vital_days_after_surgery": 1185
+    "vital_days_after_surgery": 1185,
+    "voxel_spacing": {
+      "x_spacing": 0.939453125,
+      "y_spacing": 0.939453125,
+      "z_spacing": 1.0
+    }
   },
   {
     "case_id": "case_00003",
@@ -285,7 +300,12 @@
       "days_before_nephrectomy": 114
     },
     "vital_status": "censored",
-    "vital_days_after_surgery": 114
+    "vital_days_after_surgery": 114,
+    "voxel_spacing": {
+      "x_spacing": 0.85546875,
+      "y_spacing": 0.85546875,
+      "z_spacing": 1.0
+    }
   },
   {
     "case_id": "case_00004",
@@ -357,7 +377,12 @@
       "days_before_nephrectomy": 500
     },
     "vital_status": "censored",
-    "vital_days_after_surgery": 500
+    "vital_days_after_surgery": 500,
+    "voxel_spacing": {
+      "x_spacing": 0.9765625,
+      "y_spacing": 0.9765625,
+      "z_spacing": 4.0
+    }
   },
   {
     "case_id": "case_00005",
@@ -429,7 +454,12 @@
       "days_before_nephrectomy": null
     },
     "vital_status": "censored",
-    "vital_days_after_surgery": 30
+    "vital_days_after_surgery": 30,
+    "voxel_spacing": {
+      "x_spacing": 0.9765625,
+      "y_spacing": 0.9765625,
+      "z_spacing": 0.5
+    }
   },
   {
     "case_id": "case_00006",
@@ -501,7 +531,12 @@
       "days_before_nephrectomy": 1112
     },
     "vital_status": "censored",
-    "vital_days_after_surgery": 1219
+    "vital_days_after_surgery": 1219,
+    "voxel_spacing": {
+      "x_spacing": 0.7421875,
+      "y_spacing": 0.7421875,
+      "z_spacing": 3.0
+    }
   },
   {
     "case_id": "case_00007",
@@ -573,7 +608,12 @@
       "days_before_nephrectomy": 1424
     },
     "vital_status": "censored",
-    "vital_days_after_surgery": 1438
+    "vital_days_after_surgery": 1438,
+    "voxel_spacing": {
+      "x_spacing": 0.939453125,
+      "y_spacing": 0.939453125,
+      "z_spacing": 3.0
+    }
   },
   {
     "case_id": "case_00008",
@@ -645,7 +685,12 @@
       "days_before_nephrectomy": 1289
     },
     "vital_status": "censored",
-    "vital_days_after_surgery": 1289
+    "vital_days_after_surgery": 1289,
+    "voxel_spacing": {
+      "x_spacing": 0.81640625,
+      "y_spacing": 0.81640625,
+      "z_spacing": 3.0
+    }
   },
   {
     "case_id": "case_00009",
@@ -717,7 +762,12 @@
       "days_before_nephrectomy": null
     },
     "vital_status": "censored",
-    "vital_days_after_surgery": 26
+    "vital_days_after_surgery": 26,
+    "voxel_spacing": {
+      "x_spacing": 0.80859375,
+      "y_spacing": 0.80859375,
+      "z_spacing": 3.0
+    }
   },
   {
     "case_id": "case_00010",
@@ -789,7 +839,12 @@
       "days_before_nephrectomy": 513
     },
     "vital_status": "censored",
-    "vital_days_after_surgery": 943
+    "vital_days_after_surgery": 943,
+    "voxel_spacing": {
+      "x_spacing": 0.7578125,
+      "y_spacing": 0.7578125,
+      "z_spacing": 3.0
+    }
   },
   {
     "case_id": "case_00011",
@@ -861,7 +916,12 @@
       "days_before_nephrectomy": 309
     },
     "vital_status": "censored",
-    "vital_days_after_surgery": 317
+    "vital_days_after_surgery": 317,
+    "voxel_spacing": {
+      "x_spacing": 0.703125,
+      "y_spacing": 0.703125,
+      "z_spacing": 5.0
+    }
   },
   {
     "case_id": "case_00012",
@@ -933,7 +993,12 @@
       "days_before_nephrectomy": 2604
     },
     "vital_status": "censored",
-    "vital_days_after_surgery": 2607
+    "vital_days_after_surgery": 2607,
+    "voxel_spacing": {
+      "x_spacing": 0.751953125,
+      "y_spacing": 0.751953125,
+      "z_spacing": 5.0
+    }
   },
   {
     "case_id": "case_00013",
@@ -1005,7 +1070,12 @@
       "days_before_nephrectomy": 212
     },
     "vital_status": "censored",
-    "vital_days_after_surgery": 212
+    "vital_days_after_surgery": 212,
+    "voxel_spacing": {
+      "x_spacing": 0.68359375,
+      "y_spacing": 0.68359375,
+      "z_spacing": 3.0
+    }
   },
   {
     "case_id": "case_00014",
@@ -1077,7 +1147,12 @@
       "days_before_nephrectomy": 512
     },
     "vital_status": "censored",
-    "vital_days_after_surgery": 640
+    "vital_days_after_surgery": 640,
+    "voxel_spacing": {
+      "x_spacing": 0.849609375,
+      "y_spacing": 0.849609375,
+      "z_spacing": 1.0
+    }
   },
   {
     "case_id": "case_00015",
@@ -1149,7 +1224,12 @@
       "days_before_nephrectomy": 618
     },
     "vital_status": "censored",
-    "vital_days_after_surgery": 617
+    "vital_days_after_surgery": 617,
+    "voxel_spacing": {
+      "x_spacing": 0.705078125,
+      "y_spacing": 0.705078125,
+      "z_spacing": 3.0
+    }
   },
   {
     "case_id": "case_00016",
@@ -1221,7 +1301,12 @@
       "days_before_nephrectomy": 132
     },
     "vital_status": "censored",
-    "vital_days_after_surgery": 2060
+    "vital_days_after_surgery": 2060,
+    "voxel_spacing": {
+      "x_spacing": 0.650390625,
+      "y_spacing": 0.650390625,
+      "z_spacing": 2.5
+    }
   },
   {
     "case_id": "case_00017",
@@ -1293,7 +1378,12 @@
       "days_before_nephrectomy": null
     },
     "vital_status": "censored",
-    "vital_days_after_surgery": 2327
+    "vital_days_after_surgery": 2327,
+    "voxel_spacing": {
+      "x_spacing": 0.6640625,
+      "y_spacing": 0.6640625,
+      "z_spacing": 5.0
+    }
   },
   {
     "case_id": "case_00018",
@@ -1365,7 +1455,12 @@
       "days_before_nephrectomy": 724
     },
     "vital_status": "censored",
-    "vital_days_after_surgery": 724
+    "vital_days_after_surgery": 724,
+    "voxel_spacing": {
+      "x_spacing": 0.8613280057907104,
+      "y_spacing": 0.8613280057907104,
+      "z_spacing": 2.5
+    }
   },
   {
     "case_id": "case_00019",
@@ -1437,7 +1532,12 @@
       "days_before_nephrectomy": 713
     },
     "vital_status": "censored",
-    "vital_days_after_surgery": 713
+    "vital_days_after_surgery": 713,
+    "voxel_spacing": {
+      "x_spacing": 0.9375,
+      "y_spacing": 0.9375,
+      "z_spacing": 3.75
+    }
   },
   {
     "case_id": "case_00020",
@@ -1509,7 +1609,12 @@
       "days_before_nephrectomy": 518
     },
     "vital_status": "censored",
-    "vital_days_after_surgery": 735
+    "vital_days_after_surgery": 735,
+    "voxel_spacing": {
+      "x_spacing": 0.83984375,
+      "y_spacing": 0.83984375,
+      "z_spacing": 5.0
+    }
   },
   {
     "case_id": "case_00021",
@@ -1581,7 +1686,12 @@
       "days_before_nephrectomy": 401
     },
     "vital_status": "censored",
-    "vital_days_after_surgery": 851
+    "vital_days_after_surgery": 851,
+    "voxel_spacing": {
+      "x_spacing": 0.822265625,
+      "y_spacing": 0.822265625,
+      "z_spacing": 5.0
+    }
   },
   {
     "case_id": "case_00022",
@@ -1653,7 +1763,12 @@
       "days_before_nephrectomy": 149
     },
     "vital_status": "censored",
-    "vital_days_after_surgery": 177
+    "vital_days_after_surgery": 177,
+    "voxel_spacing": {
+      "x_spacing": 0.833984375,
+      "y_spacing": 0.833984375,
+      "z_spacing": 0.5
+    }
   },
   {
     "case_id": "case_00023",
@@ -1725,7 +1840,12 @@
       "days_before_nephrectomy": null
     },
     "vital_status": "dead",
-    "vital_days_after_surgery": 2
+    "vital_days_after_surgery": 2,
+    "voxel_spacing": {
+      "x_spacing": 0.7820000052452087,
+      "y_spacing": 0.7820000052452087,
+      "z_spacing": 3.0
+    }
   },
   {
     "case_id": "case_00024",
@@ -1797,7 +1917,12 @@
       "days_before_nephrectomy": 1847
     },
     "vital_status": "censored",
-    "vital_days_after_surgery": 1962
+    "vital_days_after_surgery": 1962,
+    "voxel_spacing": {
+      "x_spacing": 0.6640625,
+      "y_spacing": 0.6640625,
+      "z_spacing": 5.0
+    }
   },
   {
     "case_id": "case_00025",
@@ -1869,7 +1994,12 @@
       "days_before_nephrectomy": null
     },
     "vital_status": "censored",
-    "vital_days_after_surgery": 0
+    "vital_days_after_surgery": 0,
+    "voxel_spacing": {
+      "x_spacing": 0.7363280057907104,
+      "y_spacing": 0.7363280057907104,
+      "z_spacing": 2.5
+    }
   },
   {
     "case_id": "case_00026",
@@ -1941,7 +2071,12 @@
       "days_before_nephrectomy": 183
     },
     "vital_status": "censored",
-    "vital_days_after_surgery": 183
+    "vital_days_after_surgery": 183,
+    "voxel_spacing": {
+      "x_spacing": 0.875,
+      "y_spacing": 0.875,
+      "z_spacing": 2.5
+    }
   },
   {
     "case_id": "case_00027",
@@ -2013,7 +2148,12 @@
       "days_before_nephrectomy": 1430
     },
     "vital_status": "censored",
-    "vital_days_after_surgery": 1430
+    "vital_days_after_surgery": 1430,
+    "voxel_spacing": {
+      "x_spacing": 0.89453125,
+      "y_spacing": 0.89453125,
+      "z_spacing": 0.5
+    }
   },
   {
     "case_id": "case_00028",
@@ -2085,7 +2225,12 @@
       "days_before_nephrectomy": null
     },
     "vital_status": "censored",
-    "vital_days_after_surgery": 16
+    "vital_days_after_surgery": 16,
+    "voxel_spacing": {
+      "x_spacing": 0.83984375,
+      "y_spacing": 0.83984375,
+      "z_spacing": 5.0
+    }
   },
   {
     "case_id": "case_00029",
@@ -2157,7 +2302,12 @@
       "days_before_nephrectomy": 811
     },
     "vital_status": "censored",
-    "vital_days_after_surgery": 833
+    "vital_days_after_surgery": 833,
+    "voxel_spacing": {
+      "x_spacing": 0.75390625,
+      "y_spacing": 0.75390625,
+      "z_spacing": 5.0
+    }
   },
   {
     "case_id": "case_00030",
@@ -2229,7 +2379,12 @@
       "days_before_nephrectomy": 2287
     },
     "vital_status": "censored",
-    "vital_days_after_surgery": 2287
+    "vital_days_after_surgery": 2287,
+    "voxel_spacing": {
+      "x_spacing": 0.73046875,
+      "y_spacing": 0.73046875,
+      "z_spacing": 5.0
+    }
   },
   {
     "case_id": "case_00031",
@@ -2301,7 +2456,12 @@
       "days_before_nephrectomy": null
     },
     "vital_status": "censored",
-    "vital_days_after_surgery": 2328
+    "vital_days_after_surgery": 2328,
+    "voxel_spacing": {
+      "x_spacing": 0.5180000066757202,
+      "y_spacing": 0.5180000066757202,
+      "z_spacing": 3.0
+    }
   },
   {
     "case_id": "case_00032",
@@ -2373,7 +2533,12 @@
       "days_before_nephrectomy": 198
     },
     "vital_status": "censored",
-    "vital_days_after_surgery": 958
+    "vital_days_after_surgery": 958,
+    "voxel_spacing": {
+      "x_spacing": 0.7792969942092896,
+      "y_spacing": 0.7792969942092896,
+      "z_spacing": 2.5
+    }
   },
   {
     "case_id": "case_00033",
@@ -2445,7 +2610,12 @@
       "days_before_nephrectomy": 699
     },
     "vital_status": "censored",
-    "vital_days_after_surgery": 720
+    "vital_days_after_surgery": 720,
+    "voxel_spacing": {
+      "x_spacing": 0.80859375,
+      "y_spacing": 0.80859375,
+      "z_spacing": 1.0
+    }
   },
   {
     "case_id": "case_00034",
@@ -2517,7 +2687,12 @@
       "days_before_nephrectomy": 2473
     },
     "vital_status": "censored",
-    "vital_days_after_surgery": 2473
+    "vital_days_after_surgery": 2473,
+    "voxel_spacing": {
+      "x_spacing": 0.8359375,
+      "y_spacing": 0.8359375,
+      "z_spacing": 5.0
+    }
   },
   {
     "case_id": "case_00035",
@@ -2589,7 +2764,12 @@
       "days_before_nephrectomy": 1519
     },
     "vital_status": "censored",
-    "vital_days_after_surgery": 1519
+    "vital_days_after_surgery": 1519,
+    "voxel_spacing": {
+      "x_spacing": 0.96484375,
+      "y_spacing": 0.96484375,
+      "z_spacing": 5.0
+    }
   },
   {
     "case_id": "case_00036",
@@ -2661,7 +2841,12 @@
       "days_before_nephrectomy": 737
     },
     "vital_status": "censored",
-    "vital_days_after_surgery": 737
+    "vital_days_after_surgery": 737,
+    "voxel_spacing": {
+      "x_spacing": 0.798828125,
+      "y_spacing": 0.798828125,
+      "z_spacing": 3.0
+    }
   },
   {
     "case_id": "case_00037",
@@ -2733,7 +2918,12 @@
       "days_before_nephrectomy": 567
     },
     "vital_status": "dead",
-    "vital_days_after_surgery": 645
+    "vital_days_after_surgery": 645,
+    "voxel_spacing": {
+      "x_spacing": 0.9375,
+      "y_spacing": 0.9375,
+      "z_spacing": 5.0
+    }
   },
   {
     "case_id": "case_00038",
@@ -2805,7 +2995,12 @@
       "days_before_nephrectomy": 1318
     },
     "vital_status": "censored",
-    "vital_days_after_surgery": 1655
+    "vital_days_after_surgery": 1655,
+    "voxel_spacing": {
+      "x_spacing": 0.779296875,
+      "y_spacing": 0.779296875,
+      "z_spacing": 5.0
+    }
   },
   {
     "case_id": "case_00039",
@@ -2877,7 +3072,12 @@
       "days_before_nephrectomy": 502
     },
     "vital_status": "censored",
-    "vital_days_after_surgery": 721
+    "vital_days_after_surgery": 721,
+    "voxel_spacing": {
+      "x_spacing": 0.703125,
+      "y_spacing": 0.703125,
+      "z_spacing": 5.0
+    }
   },
   {
     "case_id": "case_00040",
@@ -2949,7 +3149,12 @@
       "days_before_nephrectomy": 276
     },
     "vital_status": "censored",
-    "vital_days_after_surgery": 731
+    "vital_days_after_surgery": 731,
+    "voxel_spacing": {
+      "x_spacing": 0.7409999966621399,
+      "y_spacing": 0.7409999966621399,
+      "z_spacing": 2.0
+    }
   },
   {
     "case_id": "case_00041",
@@ -3021,7 +3226,12 @@
       "days_before_nephrectomy": 150
     },
     "vital_status": "censored",
-    "vital_days_after_surgery": 1541
+    "vital_days_after_surgery": 1541,
+    "voxel_spacing": {
+      "x_spacing": 0.677734375,
+      "y_spacing": 0.677734375,
+      "z_spacing": 3.0
+    }
   },
   {
     "case_id": "case_00042",
@@ -3093,7 +3303,12 @@
       "days_before_nephrectomy": 177
     },
     "vital_status": "censored",
-    "vital_days_after_surgery": 177
+    "vital_days_after_surgery": 177,
+    "voxel_spacing": {
+      "x_spacing": 0.859375,
+      "y_spacing": 0.859375,
+      "z_spacing": 1.0
+    }
   },
   {
     "case_id": "case_00043",
@@ -3165,7 +3380,12 @@
       "days_before_nephrectomy": null
     },
     "vital_status": "censored",
-    "vital_days_after_surgery": 256
+    "vital_days_after_surgery": 256,
+    "voxel_spacing": {
+      "x_spacing": 0.7379999756813049,
+      "y_spacing": 0.7379999756813049,
+      "z_spacing": 3.0
+    }
   },
   {
     "case_id": "case_00044",
@@ -3237,7 +3457,12 @@
       "days_before_nephrectomy": null
     },
     "vital_status": "dead",
-    "vital_days_after_surgery": 99
+    "vital_days_after_surgery": 99,
+    "voxel_spacing": {
+      "x_spacing": 0.966796875,
+      "y_spacing": 0.966796875,
+      "z_spacing": 5.0
+    }
   },
   {
     "case_id": "case_00045",
@@ -3309,7 +3534,12 @@
       "days_before_nephrectomy": 402
     },
     "vital_status": "censored",
-    "vital_days_after_surgery": 402
+    "vital_days_after_surgery": 402,
+    "voxel_spacing": {
+      "x_spacing": 0.7409999966621399,
+      "y_spacing": 0.7409999966621399,
+      "z_spacing": 3.0
+    }
   },
   {
     "case_id": "case_00046",
@@ -3381,7 +3611,12 @@
       "days_before_nephrectomy": null
     },
     "vital_status": "censored",
-    "vital_days_after_surgery": 22
+    "vital_days_after_surgery": 22,
+    "voxel_spacing": {
+      "x_spacing": 0.9765625,
+      "y_spacing": 0.9765625,
+      "z_spacing": 3.0
+    }
   },
   {
     "case_id": "case_00047",
@@ -3453,7 +3688,12 @@
       "days_before_nephrectomy": 2419
     },
     "vital_status": "censored",
-    "vital_days_after_surgery": 2451
+    "vital_days_after_surgery": 2451,
+    "voxel_spacing": {
+      "x_spacing": 0.85546875,
+      "y_spacing": 0.85546875,
+      "z_spacing": 5.0
+    }
   },
   {
     "case_id": "case_00048",
@@ -3525,7 +3765,12 @@
       "days_before_nephrectomy": 162
     },
     "vital_status": "dead",
-    "vital_days_after_surgery": 215
+    "vital_days_after_surgery": 215,
+    "voxel_spacing": {
+      "x_spacing": 1.0410000085830688,
+      "y_spacing": 1.0410000085830688,
+      "z_spacing": 5.0
+    }
   },
   {
     "case_id": "case_00049",
@@ -3597,7 +3842,12 @@
       "days_before_nephrectomy": 1526
     },
     "vital_status": "censored",
-    "vital_days_after_surgery": 1707
+    "vital_days_after_surgery": 1707,
+    "voxel_spacing": {
+      "x_spacing": 0.861328125,
+      "y_spacing": 0.861328125,
+      "z_spacing": 0.5
+    }
   },
   {
     "case_id": "case_00050",
@@ -3669,7 +3919,12 @@
       "days_before_nephrectomy": null
     },
     "vital_status": "censored",
-    "vital_days_after_surgery": 959
+    "vital_days_after_surgery": 959,
+    "voxel_spacing": {
+      "x_spacing": 0.6894530057907104,
+      "y_spacing": 0.6894530057907104,
+      "z_spacing": 2.5
+    }
   },
   {
     "case_id": "case_00051",
@@ -3741,7 +3996,12 @@
       "days_before_nephrectomy": 2024
     },
     "vital_status": "censored",
-    "vital_days_after_surgery": 2414
+    "vital_days_after_surgery": 2414,
+    "voxel_spacing": {
+      "x_spacing": 0.9609375,
+      "y_spacing": 0.9609375,
+      "z_spacing": 2.5
+    }
   },
   {
     "case_id": "case_00052",
@@ -3813,7 +4073,12 @@
       "days_before_nephrectomy": 1838
     },
     "vital_status": "censored",
-    "vital_days_after_surgery": 1924
+    "vital_days_after_surgery": 1924,
+    "voxel_spacing": {
+      "x_spacing": 0.95703125,
+      "y_spacing": 0.95703125,
+      "z_spacing": 0.5
+    }
   },
   {
     "case_id": "case_00053",
@@ -3885,7 +4150,12 @@
       "days_before_nephrectomy": 2270
     },
     "vital_status": "censored",
-    "vital_days_after_surgery": 2330
+    "vital_days_after_surgery": 2330,
+    "voxel_spacing": {
+      "x_spacing": 0.7734375,
+      "y_spacing": 0.7734375,
+      "z_spacing": 0.5
+    }
   },
   {
     "case_id": "case_00054",
@@ -3957,7 +4227,12 @@
       "days_before_nephrectomy": 201
     },
     "vital_status": "censored",
-    "vital_days_after_surgery": 202
+    "vital_days_after_surgery": 202,
+    "voxel_spacing": {
+      "x_spacing": 0.9765625,
+      "y_spacing": 0.9765625,
+      "z_spacing": 5.0
+    }
   },
   {
     "case_id": "case_00055",
@@ -4029,7 +4304,12 @@
       "days_before_nephrectomy": 1674
     },
     "vital_status": "censored",
-    "vital_days_after_surgery": 1681
+    "vital_days_after_surgery": 1681,
+    "voxel_spacing": {
+      "x_spacing": 0.87890625,
+      "y_spacing": 0.87890625,
+      "z_spacing": 5.0
+    }
   },
   {
     "case_id": "case_00056",
@@ -4101,7 +4381,12 @@
       "days_before_nephrectomy": 1048
     },
     "vital_status": "censored",
-    "vital_days_after_surgery": 1052
+    "vital_days_after_surgery": 1052,
+    "voxel_spacing": {
+      "x_spacing": 0.78125,
+      "y_spacing": 0.78125,
+      "z_spacing": 5.0
+    }
   },
   {
     "case_id": "case_00057",
@@ -4173,7 +4458,12 @@
       "days_before_nephrectomy": 980
     },
     "vital_status": "censored",
-    "vital_days_after_surgery": 980
+    "vital_days_after_surgery": 980,
+    "voxel_spacing": {
+      "x_spacing": 0.822265625,
+      "y_spacing": 0.822265625,
+      "z_spacing": 3.0
+    }
   },
   {
     "case_id": "case_00058",
@@ -4245,7 +4535,12 @@
       "days_before_nephrectomy": null
     },
     "vital_status": "censored",
-    "vital_days_after_surgery": 19
+    "vital_days_after_surgery": 19,
+    "voxel_spacing": {
+      "x_spacing": 0.951171875,
+      "y_spacing": 0.951171875,
+      "z_spacing": 5.0
+    }
   },
   {
     "case_id": "case_00059",
@@ -4317,7 +4612,12 @@
       "days_before_nephrectomy": 2036
     },
     "vital_status": "censored",
-    "vital_days_after_surgery": 2036
+    "vital_days_after_surgery": 2036,
+    "voxel_spacing": {
+      "x_spacing": 0.7890625,
+      "y_spacing": 0.7890625,
+      "z_spacing": 0.5
+    }
   },
   {
     "case_id": "case_00060",
@@ -4389,7 +4689,12 @@
       "days_before_nephrectomy": null
     },
     "vital_status": "censored",
-    "vital_days_after_surgery": 394
+    "vital_days_after_surgery": 394,
+    "voxel_spacing": {
+      "x_spacing": 0.833984375,
+      "y_spacing": 0.833984375,
+      "z_spacing": 3.0
+    }
   },
   {
     "case_id": "case_00061",
@@ -4461,7 +4766,12 @@
       "days_before_nephrectomy": null
     },
     "vital_status": "censored",
-    "vital_days_after_surgery": 21
+    "vital_days_after_surgery": 21,
+    "voxel_spacing": {
+      "x_spacing": 0.9765620231628418,
+      "y_spacing": 0.9765620231628418,
+      "z_spacing": 5.0
+    }
   },
   {
     "case_id": "case_00062",
@@ -4533,7 +4843,12 @@
       "days_before_nephrectomy": 1178
     },
     "vital_status": "censored",
-    "vital_days_after_surgery": 1304
+    "vital_days_after_surgery": 1304,
+    "voxel_spacing": {
+      "x_spacing": 0.9765625,
+      "y_spacing": 0.9765625,
+      "z_spacing": 5.0
+    }
   },
   {
     "case_id": "case_00063",
@@ -4605,7 +4920,12 @@
       "days_before_nephrectomy": 978
     },
     "vital_status": "censored",
-    "vital_days_after_surgery": 1016
+    "vital_days_after_surgery": 1016,
+    "voxel_spacing": {
+      "x_spacing": 0.859375,
+      "y_spacing": 0.859375,
+      "z_spacing": 0.5
+    }
   },
   {
     "case_id": "case_00064",
@@ -4677,7 +4997,12 @@
       "days_before_nephrectomy": 145
     },
     "vital_status": "censored",
-    "vital_days_after_surgery": 145
+    "vital_days_after_surgery": 145,
+    "voxel_spacing": {
+      "x_spacing": 0.703125,
+      "y_spacing": 0.703125,
+      "z_spacing": 5.0
+    }
   },
   {
     "case_id": "case_00065",
@@ -4749,7 +5074,12 @@
       "days_before_nephrectomy": 2473
     },
     "vital_status": "censored",
-    "vital_days_after_surgery": 2473
+    "vital_days_after_surgery": 2473,
+    "voxel_spacing": {
+      "x_spacing": 0.8203120231628418,
+      "y_spacing": 0.8203120231628418,
+      "z_spacing": 2.5
+    }
   },
   {
     "case_id": "case_00066",
@@ -4821,7 +5151,12 @@
       "days_before_nephrectomy": 1013
     },
     "vital_status": "censored",
-    "vital_days_after_surgery": 1013
+    "vital_days_after_surgery": 1013,
+    "voxel_spacing": {
+      "x_spacing": 0.8632810115814209,
+      "y_spacing": 0.8632810115814209,
+      "z_spacing": 1.25
+    }
   },
   {
     "case_id": "case_00067",
@@ -4893,7 +5228,12 @@
       "days_before_nephrectomy": 2050
     },
     "vital_status": "censored",
-    "vital_days_after_surgery": 2298
+    "vital_days_after_surgery": 2298,
+    "voxel_spacing": {
+      "x_spacing": 0.76171875,
+      "y_spacing": 0.76171875,
+      "z_spacing": 1.0
+    }
   },
   {
     "case_id": "case_00068",
@@ -4965,7 +5305,12 @@
       "days_before_nephrectomy": 1133
     },
     "vital_status": "censored",
-    "vital_days_after_surgery": 1176
+    "vital_days_after_surgery": 1176,
+    "voxel_spacing": {
+      "x_spacing": 0.703125,
+      "y_spacing": 0.703125,
+      "z_spacing": 0.5
+    }
   },
   {
     "case_id": "case_00069",
@@ -5037,7 +5382,12 @@
       "days_before_nephrectomy": null
     },
     "vital_status": "censored",
-    "vital_days_after_surgery": 420
+    "vital_days_after_surgery": 420,
+    "voxel_spacing": {
+      "x_spacing": 0.68359375,
+      "y_spacing": 0.68359375,
+      "z_spacing": 5.0
+    }
   },
   {
     "case_id": "case_00070",
@@ -5109,7 +5459,12 @@
       "days_before_nephrectomy": 93
     },
     "vital_status": "dead",
-    "vital_days_after_surgery": 203
+    "vital_days_after_surgery": 203,
+    "voxel_spacing": {
+      "x_spacing": 0.732421875,
+      "y_spacing": 0.732421875,
+      "z_spacing": 5.0
+    }
   },
   {
     "case_id": "case_00071",
@@ -5181,7 +5536,12 @@
       "days_before_nephrectomy": null
     },
     "vital_status": "censored",
-    "vital_days_after_surgery": 29
+    "vital_days_after_surgery": 29,
+    "voxel_spacing": {
+      "x_spacing": 0.703125,
+      "y_spacing": 0.703125,
+      "z_spacing": 0.5
+    }
   },
   {
     "case_id": "case_00072",
@@ -5253,7 +5613,12 @@
       "days_before_nephrectomy": null
     },
     "vital_status": "censored",
-    "vital_days_after_surgery": 113
+    "vital_days_after_surgery": 113,
+    "voxel_spacing": {
+      "x_spacing": 0.6640625,
+      "y_spacing": 0.6640625,
+      "z_spacing": 2.5
+    }
   },
   {
     "case_id": "case_00073",
@@ -5325,7 +5690,12 @@
       "days_before_nephrectomy": 784
     },
     "vital_status": "censored",
-    "vital_days_after_surgery": 838
+    "vital_days_after_surgery": 838,
+    "voxel_spacing": {
+      "x_spacing": 0.859375,
+      "y_spacing": 0.859375,
+      "z_spacing": 5.0
+    }
   },
   {
     "case_id": "case_00074",
@@ -5397,7 +5767,12 @@
       "days_before_nephrectomy": 1446
     },
     "vital_status": "censored",
-    "vital_days_after_surgery": 1612
+    "vital_days_after_surgery": 1612,
+    "voxel_spacing": {
+      "x_spacing": 0.6484375,
+      "y_spacing": 0.6484375,
+      "z_spacing": 5.0
+    }
   },
   {
     "case_id": "case_00075",
@@ -5469,7 +5844,12 @@
       "days_before_nephrectomy": 2044
     },
     "vital_status": "censored",
-    "vital_days_after_surgery": 2044
+    "vital_days_after_surgery": 2044,
+    "voxel_spacing": {
+      "x_spacing": 0.70703125,
+      "y_spacing": 0.70703125,
+      "z_spacing": 5.0
+    }
   },
   {
     "case_id": "case_00076",
@@ -5541,7 +5921,12 @@
       "days_before_nephrectomy": 442
     },
     "vital_status": "censored",
-    "vital_days_after_surgery": 442
+    "vital_days_after_surgery": 442,
+    "voxel_spacing": {
+      "x_spacing": 0.677734375,
+      "y_spacing": 0.677734375,
+      "z_spacing": 5.0
+    }
   },
   {
     "case_id": "case_00077",
@@ -5613,7 +5998,12 @@
       "days_before_nephrectomy": 154
     },
     "vital_status": "censored",
-    "vital_days_after_surgery": 570
+    "vital_days_after_surgery": 570,
+    "voxel_spacing": {
+      "x_spacing": 0.705078125,
+      "y_spacing": 0.705078125,
+      "z_spacing": 5.0
+    }
   },
   {
     "case_id": "case_00078",
@@ -5685,7 +6075,12 @@
       "days_before_nephrectomy": 1755
     },
     "vital_status": "censored",
-    "vital_days_after_surgery": 1902
+    "vital_days_after_surgery": 1902,
+    "voxel_spacing": {
+      "x_spacing": 0.962890625,
+      "y_spacing": 0.962890625,
+      "z_spacing": 1.0
+    }
   },
   {
     "case_id": "case_00079",
@@ -5757,7 +6152,12 @@
       "days_before_nephrectomy": 643
     },
     "vital_status": "dead",
-    "vital_days_after_surgery": 688
+    "vital_days_after_surgery": 688,
+    "voxel_spacing": {
+      "x_spacing": 0.64453125,
+      "y_spacing": 0.64453125,
+      "z_spacing": 5.0
+    }
   },
   {
     "case_id": "case_00080",
@@ -5829,7 +6229,12 @@
       "days_before_nephrectomy": 658
     },
     "vital_status": "censored",
-    "vital_days_after_surgery": 791
+    "vital_days_after_surgery": 791,
+    "voxel_spacing": {
+      "x_spacing": 0.72265625,
+      "y_spacing": 0.72265625,
+      "z_spacing": 5.0
+    }
   },
   {
     "case_id": "case_00081",
@@ -5901,7 +6306,12 @@
       "days_before_nephrectomy": null
     },
     "vital_status": "censored",
-    "vital_days_after_surgery": 45
+    "vital_days_after_surgery": 45,
+    "voxel_spacing": {
+      "x_spacing": 0.984000027179718,
+      "y_spacing": 0.984000027179718,
+      "z_spacing": 3.0
+    }
   },
   {
     "case_id": "case_00082",
@@ -5973,7 +6383,12 @@
       "days_before_nephrectomy": 2029
     },
     "vital_status": "censored",
-    "vital_days_after_surgery": 2038
+    "vital_days_after_surgery": 2038,
+    "voxel_spacing": {
+      "x_spacing": 0.779296875,
+      "y_spacing": 0.779296875,
+      "z_spacing": 3.0
+    }
   },
   {
     "case_id": "case_00083",
@@ -6045,7 +6460,12 @@
       "days_before_nephrectomy": null
     },
     "vital_status": "censored",
-    "vital_days_after_surgery": 22
+    "vital_days_after_surgery": 22,
+    "voxel_spacing": {
+      "x_spacing": 0.9765625,
+      "y_spacing": 0.9765625,
+      "z_spacing": 3.0
+    }
   },
   {
     "case_id": "case_00084",
@@ -6117,7 +6537,12 @@
       "days_before_nephrectomy": 948
     },
     "vital_status": "censored",
-    "vital_days_after_surgery": 948
+    "vital_days_after_surgery": 948,
+    "voxel_spacing": {
+      "x_spacing": 0.9765625,
+      "y_spacing": 0.9765625,
+      "z_spacing": 2.0
+    }
   },
   {
     "case_id": "case_00085",
@@ -6189,7 +6614,12 @@
       "days_before_nephrectomy": null
     },
     "vital_status": "censored",
-    "vital_days_after_surgery": 24
+    "vital_days_after_surgery": 24,
+    "voxel_spacing": {
+      "x_spacing": 0.8119999766349792,
+      "y_spacing": 0.8119999766349792,
+      "z_spacing": 5.0
+    }
   },
   {
     "case_id": "case_00086",
@@ -6261,7 +6691,12 @@
       "days_before_nephrectomy": null
     },
     "vital_status": "censored",
-    "vital_days_after_surgery": 2045
+    "vital_days_after_surgery": 2045,
+    "voxel_spacing": {
+      "x_spacing": 0.7890620231628418,
+      "y_spacing": 0.7890620231628418,
+      "z_spacing": 2.5
+    }
   },
   {
     "case_id": "case_00087",
@@ -6333,7 +6768,12 @@
       "days_before_nephrectomy": 1757
     },
     "vital_status": "censored",
-    "vital_days_after_surgery": 1757
+    "vital_days_after_surgery": 1757,
+    "voxel_spacing": {
+      "x_spacing": 0.69140625,
+      "y_spacing": 0.69140625,
+      "z_spacing": 5.0
+    }
   },
   {
     "case_id": "case_00088",
@@ -6405,7 +6845,12 @@
       "days_before_nephrectomy": 762
     },
     "vital_status": "censored",
-    "vital_days_after_surgery": 762
+    "vital_days_after_surgery": 762,
+    "voxel_spacing": {
+      "x_spacing": 0.4375,
+      "y_spacing": 0.4375,
+      "z_spacing": 3.0
+    }
   },
   {
     "case_id": "case_00089",
@@ -6477,7 +6922,12 @@
       "days_before_nephrectomy": 2248
     },
     "vital_status": "censored",
-    "vital_days_after_surgery": 2248
+    "vital_days_after_surgery": 2248,
+    "voxel_spacing": {
+      "x_spacing": 0.908203125,
+      "y_spacing": 0.908203125,
+      "z_spacing": 5.0
+    }
   },
   {
     "case_id": "case_00090",
@@ -6549,7 +6999,12 @@
       "days_before_nephrectomy": null
     },
     "vital_status": "dead",
-    "vital_days_after_surgery": 102
+    "vital_days_after_surgery": 102,
+    "voxel_spacing": {
+      "x_spacing": 0.767578125,
+      "y_spacing": 0.767578125,
+      "z_spacing": 3.0
+    }
   },
   {
     "case_id": "case_00091",
@@ -6621,7 +7076,12 @@
       "days_before_nephrectomy": null
     },
     "vital_status": "censored",
-    "vital_days_after_surgery": 119
+    "vital_days_after_surgery": 119,
+    "voxel_spacing": {
+      "x_spacing": 0.7890625,
+      "y_spacing": 0.7890625,
+      "z_spacing": 0.5
+    }
   },
   {
     "case_id": "case_00092",
@@ -6693,7 +7153,12 @@
       "days_before_nephrectomy": 1277
     },
     "vital_status": "censored",
-    "vital_days_after_surgery": 1397
+    "vital_days_after_surgery": 1397,
+    "voxel_spacing": {
+      "x_spacing": 0.703125,
+      "y_spacing": 0.703125,
+      "z_spacing": 5.0
+    }
   },
   {
     "case_id": "case_00093",
@@ -6765,7 +7230,12 @@
       "days_before_nephrectomy": null
     },
     "vital_status": "censored",
-    "vital_days_after_surgery": 1122
+    "vital_days_after_surgery": 1122,
+    "voxel_spacing": {
+      "x_spacing": 0.91015625,
+      "y_spacing": 0.91015625,
+      "z_spacing": 0.5
+    }
   },
   {
     "case_id": "case_00094",
@@ -6837,7 +7307,12 @@
       "days_before_nephrectomy": null
     },
     "vital_status": "dead",
-    "vital_days_after_surgery": 48
+    "vital_days_after_surgery": 48,
+    "voxel_spacing": {
+      "x_spacing": 0.703125,
+      "y_spacing": 0.703125,
+      "z_spacing": 5.0
+    }
   },
   {
     "case_id": "case_00095",
@@ -6909,7 +7384,12 @@
       "days_before_nephrectomy": 932
     },
     "vital_status": "censored",
-    "vital_days_after_surgery": 965
+    "vital_days_after_surgery": 965,
+    "voxel_spacing": {
+      "x_spacing": 0.93359375,
+      "y_spacing": 0.93359375,
+      "z_spacing": 1.5
+    }
   },
   {
     "case_id": "case_00096",
@@ -6981,7 +7461,12 @@
       "days_before_nephrectomy": 197
     },
     "vital_status": "censored",
-    "vital_days_after_surgery": 197
+    "vital_days_after_surgery": 197,
+    "voxel_spacing": {
+      "x_spacing": 0.73828125,
+      "y_spacing": 0.73828125,
+      "z_spacing": 0.5
+    }
   },
   {
     "case_id": "case_00097",
@@ -7053,7 +7538,12 @@
       "days_before_nephrectomy": 1076
     },
     "vital_status": "censored",
-    "vital_days_after_surgery": 1057
+    "vital_days_after_surgery": 1057,
+    "voxel_spacing": {
+      "x_spacing": 0.7409999966621399,
+      "y_spacing": 0.7409999966621399,
+      "z_spacing": 5.0
+    }
   },
   {
     "case_id": "case_00098",
@@ -7125,7 +7615,12 @@
       "days_before_nephrectomy": null
     },
     "vital_status": "censored",
-    "vital_days_after_surgery": 428
+    "vital_days_after_surgery": 428,
+    "voxel_spacing": {
+      "x_spacing": 0.69921875,
+      "y_spacing": 0.69921875,
+      "z_spacing": 1.0
+    }
   },
   {
     "case_id": "case_00099",
@@ -7197,7 +7692,12 @@
       "days_before_nephrectomy": 834
     },
     "vital_status": "censored",
-    "vital_days_after_surgery": 1086
+    "vital_days_after_surgery": 1086,
+    "voxel_spacing": {
+      "x_spacing": 0.7070310115814209,
+      "y_spacing": 0.7070310115814209,
+      "z_spacing": 5.0
+    }
   },
   {
     "case_id": "case_00100",
@@ -7269,7 +7769,12 @@
       "days_before_nephrectomy": 745
     },
     "vital_status": "censored",
-    "vital_days_after_surgery": 745
+    "vital_days_after_surgery": 745,
+    "voxel_spacing": {
+      "x_spacing": 0.82421875,
+      "y_spacing": 0.82421875,
+      "z_spacing": 1.0
+    }
   },
   {
     "case_id": "case_00101",
@@ -7341,7 +7846,12 @@
       "days_before_nephrectomy": 1727
     },
     "vital_status": "censored",
-    "vital_days_after_surgery": 2108
+    "vital_days_after_surgery": 2108,
+    "voxel_spacing": {
+      "x_spacing": 0.771484375,
+      "y_spacing": 0.771484375,
+      "z_spacing": 0.5
+    }
   },
   {
     "case_id": "case_00102",
@@ -7413,7 +7923,12 @@
       "days_before_nephrectomy": 621
     },
     "vital_status": "censored",
-    "vital_days_after_surgery": 790
+    "vital_days_after_surgery": 790,
+    "voxel_spacing": {
+      "x_spacing": 0.83984375,
+      "y_spacing": 0.83984375,
+      "z_spacing": 1.0
+    }
   },
   {
     "case_id": "case_00103",
@@ -7485,7 +8000,12 @@
       "days_before_nephrectomy": 973
     },
     "vital_status": "censored",
-    "vital_days_after_surgery": 1066
+    "vital_days_after_surgery": 1066,
+    "voxel_spacing": {
+      "x_spacing": 0.828125,
+      "y_spacing": 0.828125,
+      "z_spacing": 0.5
+    }
   },
   {
     "case_id": "case_00104",
@@ -7557,7 +8077,12 @@
       "days_before_nephrectomy": 2349
     },
     "vital_status": "censored",
-    "vital_days_after_surgery": 2349
+    "vital_days_after_surgery": 2349,
+    "voxel_spacing": {
+      "x_spacing": 0.78125,
+      "y_spacing": 0.78125,
+      "z_spacing": 5.0
+    }
   },
   {
     "case_id": "case_00105",
@@ -7629,7 +8154,12 @@
       "days_before_nephrectomy": 394
     },
     "vital_status": "censored",
-    "vital_days_after_surgery": 423
+    "vital_days_after_surgery": 423,
+    "voxel_spacing": {
+      "x_spacing": 0.892578125,
+      "y_spacing": 0.892578125,
+      "z_spacing": 3.0
+    }
   },
   {
     "case_id": "case_00106",
@@ -7701,7 +8231,12 @@
       "days_before_nephrectomy": 2037
     },
     "vital_status": "censored",
-    "vital_days_after_surgery": 2037
+    "vital_days_after_surgery": 2037,
+    "voxel_spacing": {
+      "x_spacing": 0.806640625,
+      "y_spacing": 0.806640625,
+      "z_spacing": 5.0
+    }
   },
   {
     "case_id": "case_00107",
@@ -7773,7 +8308,12 @@
       "days_before_nephrectomy": 641
     },
     "vital_status": "dead",
-    "vital_days_after_surgery": 642
+    "vital_days_after_surgery": 642,
+    "voxel_spacing": {
+      "x_spacing": 0.7167969942092896,
+      "y_spacing": 0.7167969942092896,
+      "z_spacing": 5.0
+    }
   },
   {
     "case_id": "case_00108",
@@ -7845,7 +8385,12 @@
       "days_before_nephrectomy": 2317
     },
     "vital_status": "censored",
-    "vital_days_after_surgery": 2335
+    "vital_days_after_surgery": 2335,
+    "voxel_spacing": {
+      "x_spacing": 0.865234375,
+      "y_spacing": 0.865234375,
+      "z_spacing": 5.0
+    }
   },
   {
     "case_id": "case_00109",
@@ -7917,7 +8462,12 @@
       "days_before_nephrectomy": 990
     },
     "vital_status": "censored",
-    "vital_days_after_surgery": 1016
+    "vital_days_after_surgery": 1016,
+    "voxel_spacing": {
+      "x_spacing": 0.5859379768371582,
+      "y_spacing": 0.5859379768371582,
+      "z_spacing": 2.5
+    }
   },
   {
     "case_id": "case_00110",
@@ -7989,7 +8539,12 @@
       "days_before_nephrectomy": null
     },
     "vital_status": "censored",
-    "vital_days_after_surgery": 9
+    "vital_days_after_surgery": 9,
+    "voxel_spacing": {
+      "x_spacing": 0.830078125,
+      "y_spacing": 0.830078125,
+      "z_spacing": 5.0
+    }
   },
   {
     "case_id": "case_00111",
@@ -8061,7 +8616,12 @@
       "days_before_nephrectomy": 184
     },
     "vital_status": "censored",
-    "vital_days_after_surgery": 184
+    "vital_days_after_surgery": 184,
+    "voxel_spacing": {
+      "x_spacing": 0.7421879768371582,
+      "y_spacing": 0.7421879768371582,
+      "z_spacing": 2.5
+    }
   },
   {
     "case_id": "case_00112",
@@ -8133,7 +8693,12 @@
       "days_before_nephrectomy": 699
     },
     "vital_status": "dead",
-    "vital_days_after_surgery": 729
+    "vital_days_after_surgery": 729,
+    "voxel_spacing": {
+      "x_spacing": 0.7421875,
+      "y_spacing": 0.7421875,
+      "z_spacing": 2.0
+    }
   },
   {
     "case_id": "case_00113",
@@ -8205,7 +8770,12 @@
       "days_before_nephrectomy": 268
     },
     "vital_status": "dead",
-    "vital_days_after_surgery": 323
+    "vital_days_after_surgery": 323,
+    "voxel_spacing": {
+      "x_spacing": 0.701171875,
+      "y_spacing": 0.701171875,
+      "z_spacing": 5.0
+    }
   },
   {
     "case_id": "case_00114",
@@ -8277,7 +8847,12 @@
       "days_before_nephrectomy": 293
     },
     "vital_status": "dead",
-    "vital_days_after_surgery": 473
+    "vital_days_after_surgery": 473,
+    "voxel_spacing": {
+      "x_spacing": 0.80859375,
+      "y_spacing": 0.80859375,
+      "z_spacing": 1.0
+    }
   },
   {
     "case_id": "case_00115",
@@ -8349,7 +8924,12 @@
       "days_before_nephrectomy": null
     },
     "vital_status": "censored",
-    "vital_days_after_surgery": 22
+    "vital_days_after_surgery": 22,
+    "voxel_spacing": {
+      "x_spacing": 0.703125,
+      "y_spacing": 0.703125,
+      "z_spacing": 0.5
+    }
   },
   {
     "case_id": "case_00116",
@@ -8421,7 +9001,12 @@
       "days_before_nephrectomy": null
     },
     "vital_status": "censored",
-    "vital_days_after_surgery": 15
+    "vital_days_after_surgery": 15,
+    "voxel_spacing": {
+      "x_spacing": 0.671875,
+      "y_spacing": 0.671875,
+      "z_spacing": 0.5
+    }
   },
   {
     "case_id": "case_00117",
@@ -8493,7 +9078,12 @@
       "days_before_nephrectomy": 1457
     },
     "vital_status": "censored",
-    "vital_days_after_surgery": 785
+    "vital_days_after_surgery": 785,
+    "voxel_spacing": {
+      "x_spacing": 0.8457030057907104,
+      "y_spacing": 0.8457030057907104,
+      "z_spacing": 2.5
+    }
   },
   {
     "case_id": "case_00118",
@@ -8565,7 +9155,12 @@
       "days_before_nephrectomy": 1358
     },
     "vital_status": "censored",
-    "vital_days_after_surgery": 980
+    "vital_days_after_surgery": 980,
+    "voxel_spacing": {
+      "x_spacing": 0.85546875,
+      "y_spacing": 0.85546875,
+      "z_spacing": 0.5
+    }
   },
   {
     "case_id": "case_00119",
@@ -8637,7 +9232,12 @@
       "days_before_nephrectomy": 2091
     },
     "vital_status": "censored",
-    "vital_days_after_surgery": 1944
+    "vital_days_after_surgery": 1944,
+    "voxel_spacing": {
+      "x_spacing": 0.76171875,
+      "y_spacing": 0.76171875,
+      "z_spacing": 5.0
+    }
   },
   {
     "case_id": "case_00120",
@@ -8709,7 +9309,12 @@
       "days_before_nephrectomy": null
     },
     "vital_status": "censored",
-    "vital_days_after_surgery": 182
+    "vital_days_after_surgery": 182,
+    "voxel_spacing": {
+      "x_spacing": 0.83203125,
+      "y_spacing": 0.83203125,
+      "z_spacing": 1.0
+    }
   },
   {
     "case_id": "case_00121",
@@ -8781,7 +9386,12 @@
       "days_before_nephrectomy": null
     },
     "vital_status": "censored",
-    "vital_days_after_surgery": 358
+    "vital_days_after_surgery": 358,
+    "voxel_spacing": {
+      "x_spacing": 0.6859999895095825,
+      "y_spacing": 0.6859999895095825,
+      "z_spacing": 5.0
+    }
   },
   {
     "case_id": "case_00122",
@@ -8853,7 +9463,12 @@
       "days_before_nephrectomy": 472
     },
     "vital_status": "dead",
-    "vital_days_after_surgery": 478
+    "vital_days_after_surgery": 478,
+    "voxel_spacing": {
+      "x_spacing": 0.72265625,
+      "y_spacing": 0.72265625,
+      "z_spacing": 5.0
+    }
   },
   {
     "case_id": "case_00123",
@@ -8925,7 +9540,12 @@
       "days_before_nephrectomy": null
     },
     "vital_status": "censored",
-    "vital_days_after_surgery": 8
+    "vital_days_after_surgery": 8,
+    "voxel_spacing": {
+      "x_spacing": 0.8691409826278687,
+      "y_spacing": 0.8691409826278687,
+      "z_spacing": 1.25
+    }
   },
   {
     "case_id": "case_00124",
@@ -8997,7 +9617,12 @@
       "days_before_nephrectomy": 421
     },
     "vital_status": "censored",
-    "vital_days_after_surgery": 505
+    "vital_days_after_surgery": 505,
+    "voxel_spacing": {
+      "x_spacing": 0.703125,
+      "y_spacing": 0.703125,
+      "z_spacing": 2.5
+    }
   },
   {
     "case_id": "case_00125",
@@ -9069,7 +9694,12 @@
       "days_before_nephrectomy": null
     },
     "vital_status": "dead",
-    "vital_days_after_surgery": 1054
+    "vital_days_after_surgery": 1054,
+    "voxel_spacing": {
+      "x_spacing": 0.9765625,
+      "y_spacing": 0.9765625,
+      "z_spacing": 3.0
+    }
   },
   {
     "case_id": "case_00126",
@@ -9141,7 +9771,12 @@
       "days_before_nephrectomy": 2584
     },
     "vital_status": "censored",
-    "vital_days_after_surgery": 2611
+    "vital_days_after_surgery": 2611,
+    "voxel_spacing": {
+      "x_spacing": 0.94140625,
+      "y_spacing": 0.94140625,
+      "z_spacing": 5.0
+    }
   },
   {
     "case_id": "case_00127",
@@ -9213,7 +9848,12 @@
       "days_before_nephrectomy": 198
     },
     "vital_status": "censored",
-    "vital_days_after_surgery": 198
+    "vital_days_after_surgery": 198,
+    "voxel_spacing": {
+      "x_spacing": 0.9765625,
+      "y_spacing": 0.9765625,
+      "z_spacing": 3.0
+    }
   },
   {
     "case_id": "case_00128",
@@ -9285,7 +9925,12 @@
       "days_before_nephrectomy": 467
     },
     "vital_status": "censored",
-    "vital_days_after_surgery": 480
+    "vital_days_after_surgery": 480,
+    "voxel_spacing": {
+      "x_spacing": 0.8789060115814209,
+      "y_spacing": 0.8789060115814209,
+      "z_spacing": 2.5
+    }
   },
   {
     "case_id": "case_00129",
@@ -9357,7 +10002,12 @@
       "days_before_nephrectomy": 578
     },
     "vital_status": "censored",
-    "vital_days_after_surgery": 584
+    "vital_days_after_surgery": 584,
+    "voxel_spacing": {
+      "x_spacing": 0.736328125,
+      "y_spacing": 0.736328125,
+      "z_spacing": 5.0
+    }
   },
   {
     "case_id": "case_00130",
@@ -9429,7 +10079,12 @@
       "days_before_nephrectomy": null
     },
     "vital_status": "censored",
-    "vital_days_after_surgery": 16
+    "vital_days_after_surgery": 16,
+    "voxel_spacing": {
+      "x_spacing": 0.546875,
+      "y_spacing": 0.546875,
+      "z_spacing": 3.0
+    }
   },
   {
     "case_id": "case_00131",
@@ -9501,7 +10156,12 @@
       "days_before_nephrectomy": 2430
     },
     "vital_status": "censored",
-    "vital_days_after_surgery": 2437
+    "vital_days_after_surgery": 2437,
+    "voxel_spacing": {
+      "x_spacing": 0.6679999828338623,
+      "y_spacing": 0.6679999828338623,
+      "z_spacing": 3.0
+    }
   },
   {
     "case_id": "case_00132",
@@ -9573,7 +10233,12 @@
       "days_before_nephrectomy": 2393
     },
     "vital_status": "censored",
-    "vital_days_after_surgery": 2393
+    "vital_days_after_surgery": 2393,
+    "voxel_spacing": {
+      "x_spacing": 0.712890625,
+      "y_spacing": 0.712890625,
+      "z_spacing": 0.5
+    }
   },
   {
     "case_id": "case_00133",
@@ -9645,7 +10310,12 @@
       "days_before_nephrectomy": null
     },
     "vital_status": "censored",
-    "vital_days_after_surgery": 16
+    "vital_days_after_surgery": 16,
+    "voxel_spacing": {
+      "x_spacing": 0.8496090173721313,
+      "y_spacing": 0.8496090173721313,
+      "z_spacing": 2.5
+    }
   },
   {
     "case_id": "case_00134",
@@ -9717,7 +10387,12 @@
       "days_before_nephrectomy": 2499
     },
     "vital_status": "censored",
-    "vital_days_after_surgery": 2539
+    "vital_days_after_surgery": 2539,
+    "voxel_spacing": {
+      "x_spacing": 0.947265625,
+      "y_spacing": 0.947265625,
+      "z_spacing": 3.0
+    }
   },
   {
     "case_id": "case_00135",
@@ -9789,7 +10464,12 @@
       "days_before_nephrectomy": 353
     },
     "vital_status": "censored",
-    "vital_days_after_surgery": 353
+    "vital_days_after_surgery": 353,
+    "voxel_spacing": {
+      "x_spacing": 0.837890625,
+      "y_spacing": 0.837890625,
+      "z_spacing": 0.5
+    }
   },
   {
     "case_id": "case_00136",
@@ -9861,7 +10541,12 @@
       "days_before_nephrectomy": 745
     },
     "vital_status": "censored",
-    "vital_days_after_surgery": 775
+    "vital_days_after_surgery": 775,
+    "voxel_spacing": {
+      "x_spacing": 0.68359375,
+      "y_spacing": 0.68359375,
+      "z_spacing": 5.0
+    }
   },
   {
     "case_id": "case_00137",
@@ -9933,7 +10618,12 @@
       "days_before_nephrectomy": 1487
     },
     "vital_status": "censored",
-    "vital_days_after_surgery": 1536
+    "vital_days_after_surgery": 1536,
+    "voxel_spacing": {
+      "x_spacing": 0.7421875,
+      "y_spacing": 0.7421875,
+      "z_spacing": 2.5
+    }
   },
   {
     "case_id": "case_00138",
@@ -10005,7 +10695,12 @@
       "days_before_nephrectomy": 1104
     },
     "vital_status": "censored",
-    "vital_days_after_surgery": 1105
+    "vital_days_after_surgery": 1105,
+    "voxel_spacing": {
+      "x_spacing": 0.68359375,
+      "y_spacing": 0.68359375,
+      "z_spacing": 3.0
+    }
   },
   {
     "case_id": "case_00139",
@@ -10077,7 +10772,12 @@
       "days_before_nephrectomy": 2425
     },
     "vital_status": "censored",
-    "vital_days_after_surgery": 2425
+    "vital_days_after_surgery": 2425,
+    "voxel_spacing": {
+      "x_spacing": 0.80078125,
+      "y_spacing": 0.80078125,
+      "z_spacing": 5.0
+    }
   },
   {
     "case_id": "case_00140",
@@ -10149,7 +10849,12 @@
       "days_before_nephrectomy": 1531
     },
     "vital_status": "censored",
-    "vital_days_after_surgery": 1554
+    "vital_days_after_surgery": 1554,
+    "voxel_spacing": {
+      "x_spacing": 0.82421875,
+      "y_spacing": 0.82421875,
+      "z_spacing": 1.0
+    }
   },
   {
     "case_id": "case_00141",
@@ -10221,7 +10926,12 @@
       "days_before_nephrectomy": null
     },
     "vital_status": "censored",
-    "vital_days_after_surgery": 211
+    "vital_days_after_surgery": 211,
+    "voxel_spacing": {
+      "x_spacing": 0.712890625,
+      "y_spacing": 0.712890625,
+      "z_spacing": 0.5
+    }
   },
   {
     "case_id": "case_00142",
@@ -10293,7 +11003,12 @@
       "days_before_nephrectomy": 743
     },
     "vital_status": "censored",
-    "vital_days_after_surgery": 743
+    "vital_days_after_surgery": 743,
+    "voxel_spacing": {
+      "x_spacing": 0.80859375,
+      "y_spacing": 0.80859375,
+      "z_spacing": 1.0
+    }
   },
   {
     "case_id": "case_00143",
@@ -10365,7 +11080,12 @@
       "days_before_nephrectomy": 391
     },
     "vital_status": "censored",
-    "vital_days_after_surgery": 393
+    "vital_days_after_surgery": 393,
+    "voxel_spacing": {
+      "x_spacing": 0.91796875,
+      "y_spacing": 0.91796875,
+      "z_spacing": 5.0
+    }
   },
   {
     "case_id": "case_00144",
@@ -10437,7 +11157,12 @@
       "days_before_nephrectomy": null
     },
     "vital_status": "censored",
-    "vital_days_after_surgery": 1007
+    "vital_days_after_surgery": 1007,
+    "voxel_spacing": {
+      "x_spacing": 0.791015625,
+      "y_spacing": 0.791015625,
+      "z_spacing": 2.5
+    }
   },
   {
     "case_id": "case_00145",
@@ -10509,7 +11234,12 @@
       "days_before_nephrectomy": null
     },
     "vital_status": "censored",
-    "vital_days_after_surgery": 1624
+    "vital_days_after_surgery": 1624,
+    "voxel_spacing": {
+      "x_spacing": 0.9765625,
+      "y_spacing": 0.9765625,
+      "z_spacing": 3.0
+    }
   },
   {
     "case_id": "case_00146",
@@ -10581,7 +11311,12 @@
       "days_before_nephrectomy": 1731
     },
     "vital_status": "censored",
-    "vital_days_after_surgery": 1738
+    "vital_days_after_surgery": 1738,
+    "voxel_spacing": {
+      "x_spacing": 0.703125,
+      "y_spacing": 0.703125,
+      "z_spacing": 0.5
+    }
   },
   {
     "case_id": "case_00147",
@@ -10653,7 +11388,12 @@
       "days_before_nephrectomy": null
     },
     "vital_status": "censored",
-    "vital_days_after_surgery": 16
+    "vital_days_after_surgery": 16,
+    "voxel_spacing": {
+      "x_spacing": 0.9765625,
+      "y_spacing": 0.9765625,
+      "z_spacing": 5.0
+    }
   },
   {
     "case_id": "case_00148",
@@ -10725,7 +11465,12 @@
       "days_before_nephrectomy": 984
     },
     "vital_status": "censored",
-    "vital_days_after_surgery": 1050
+    "vital_days_after_surgery": 1050,
+    "voxel_spacing": {
+      "x_spacing": 0.90625,
+      "y_spacing": 0.90625,
+      "z_spacing": 5.0
+    }
   },
   {
     "case_id": "case_00149",
@@ -10797,7 +11542,12 @@
       "days_before_nephrectomy": 737
     },
     "vital_status": "censored",
-    "vital_days_after_surgery": 737
+    "vital_days_after_surgery": 737,
+    "voxel_spacing": {
+      "x_spacing": 0.796875,
+      "y_spacing": 0.796875,
+      "z_spacing": 3.0
+    }
   },
   {
     "case_id": "case_00150",
@@ -10869,7 +11619,12 @@
       "days_before_nephrectomy": 979
     },
     "vital_status": "censored",
-    "vital_days_after_surgery": 979
+    "vital_days_after_surgery": 979,
+    "voxel_spacing": {
+      "x_spacing": 0.7421879768371582,
+      "y_spacing": 0.7421879768371582,
+      "z_spacing": 2.5
+    }
   },
   {
     "case_id": "case_00151",
@@ -10941,7 +11696,12 @@
       "days_before_nephrectomy": null
     },
     "vital_status": "censored",
-    "vital_days_after_surgery": 15
+    "vital_days_after_surgery": 15,
+    "voxel_spacing": {
+      "x_spacing": 0.810546875,
+      "y_spacing": 0.810546875,
+      "z_spacing": 0.5
+    }
   },
   {
     "case_id": "case_00152",
@@ -11013,7 +11773,12 @@
       "days_before_nephrectomy": 1025
     },
     "vital_status": "censored",
-    "vital_days_after_surgery": 1028
+    "vital_days_after_surgery": 1028,
+    "voxel_spacing": {
+      "x_spacing": 0.72265625,
+      "y_spacing": 0.72265625,
+      "z_spacing": 5.0
+    }
   },
   {
     "case_id": "case_00153",
@@ -11085,7 +11850,12 @@
       "days_before_nephrectomy": 656
     },
     "vital_status": "censored",
-    "vital_days_after_surgery": 657
+    "vital_days_after_surgery": 657,
+    "voxel_spacing": {
+      "x_spacing": 0.6640625,
+      "y_spacing": 0.6640625,
+      "z_spacing": 3.0
+    }
   },
   {
     "case_id": "case_00154",
@@ -11157,7 +11927,12 @@
       "days_before_nephrectomy": null
     },
     "vital_status": "censored",
-    "vital_days_after_surgery": 30
+    "vital_days_after_surgery": 30,
+    "voxel_spacing": {
+      "x_spacing": 0.9375,
+      "y_spacing": 0.9375,
+      "z_spacing": 0.5
+    }
   },
   {
     "case_id": "case_00155",
@@ -11229,7 +12004,12 @@
       "days_before_nephrectomy": null
     },
     "vital_status": "censored",
-    "vital_days_after_surgery": 15
+    "vital_days_after_surgery": 15,
+    "voxel_spacing": {
+      "x_spacing": 0.810546875,
+      "y_spacing": 0.810546875,
+      "z_spacing": 0.5
+    }
   },
   {
     "case_id": "case_00156",
@@ -11301,7 +12081,12 @@
       "days_before_nephrectomy": 644
     },
     "vital_status": "censored",
-    "vital_days_after_surgery": 643
+    "vital_days_after_surgery": 643,
+    "voxel_spacing": {
+      "x_spacing": 0.9765625,
+      "y_spacing": 0.9765625,
+      "z_spacing": 0.5
+    }
   },
   {
     "case_id": "case_00157",
@@ -11373,7 +12158,12 @@
       "days_before_nephrectomy": 373
     },
     "vital_status": "censored",
-    "vital_days_after_surgery": 373
+    "vital_days_after_surgery": 373,
+    "voxel_spacing": {
+      "x_spacing": 0.8515625,
+      "y_spacing": 0.8515625,
+      "z_spacing": 0.5
+    }
   },
   {
     "case_id": "case_00158",
@@ -11445,7 +12235,12 @@
       "days_before_nephrectomy": null
     },
     "vital_status": "censored",
-    "vital_days_after_surgery": 0
+    "vital_days_after_surgery": 0,
+    "voxel_spacing": {
+      "x_spacing": 0.703125,
+      "y_spacing": 0.703125,
+      "z_spacing": 0.5
+    }
   },
   {
     "case_id": "case_00159",
@@ -11517,7 +12312,12 @@
       "days_before_nephrectomy": null
     },
     "vital_status": "censored",
-    "vital_days_after_surgery": 1058
+    "vital_days_after_surgery": 1058,
+    "voxel_spacing": {
+      "x_spacing": 0.765625,
+      "y_spacing": 0.765625,
+      "z_spacing": 0.5
+    }
   },
   {
     "case_id": "case_00160",
@@ -11589,7 +12389,12 @@
       "days_before_nephrectomy": 499
     },
     "vital_status": "censored",
-    "vital_days_after_surgery": 499
+    "vital_days_after_surgery": 499,
+    "voxel_spacing": {
+      "x_spacing": 0.451171875,
+      "y_spacing": 0.451171875,
+      "z_spacing": 1.0
+    }
   },
   {
     "case_id": "case_00161",
@@ -11661,7 +12466,12 @@
       "days_before_nephrectomy": 1304
     },
     "vital_status": "censored",
-    "vital_days_after_surgery": 1304
+    "vital_days_after_surgery": 1304,
+    "voxel_spacing": {
+      "x_spacing": 0.87109375,
+      "y_spacing": 0.87109375,
+      "z_spacing": 5.0
+    }
   },
   {
     "case_id": "case_00162",
@@ -11733,7 +12543,12 @@
       "days_before_nephrectomy": 1800
     },
     "vital_status": "censored",
-    "vital_days_after_surgery": 2528
+    "vital_days_after_surgery": 2528,
+    "voxel_spacing": {
+      "x_spacing": 0.55078125,
+      "y_spacing": 0.55078125,
+      "z_spacing": 5.0
+    }
   },
   {
     "case_id": "case_00163",
@@ -11805,7 +12620,12 @@
       "days_before_nephrectomy": null
     },
     "vital_status": "censored",
-    "vital_days_after_surgery": 15
+    "vital_days_after_surgery": 15,
+    "voxel_spacing": {
+      "x_spacing": 0.9375,
+      "y_spacing": 0.9375,
+      "z_spacing": 5.0
+    }
   },
   {
     "case_id": "case_00164",
@@ -11877,7 +12697,12 @@
       "days_before_nephrectomy": 3070
     },
     "vital_status": "censored",
-    "vital_days_after_surgery": 3070
+    "vital_days_after_surgery": 3070,
+    "voxel_spacing": {
+      "x_spacing": 0.69140625,
+      "y_spacing": 0.69140625,
+      "z_spacing": 5.0
+    }
   },
   {
     "case_id": "case_00165",
@@ -11949,7 +12774,12 @@
       "days_before_nephrectomy": 552
     },
     "vital_status": "censored",
-    "vital_days_after_surgery": 552
+    "vital_days_after_surgery": 552,
+    "voxel_spacing": {
+      "x_spacing": 0.970703125,
+      "y_spacing": 0.970703125,
+      "z_spacing": 1.0
+    }
   },
   {
     "case_id": "case_00166",
@@ -12021,7 +12851,12 @@
       "days_before_nephrectomy": null
     },
     "vital_status": "censored",
-    "vital_days_after_surgery": 86
+    "vital_days_after_surgery": 86,
+    "voxel_spacing": {
+      "x_spacing": 0.7139999866485596,
+      "y_spacing": 0.7139999866485596,
+      "z_spacing": 3.0
+    }
   },
   {
     "case_id": "case_00167",
@@ -12093,7 +12928,12 @@
       "days_before_nephrectomy": 1101
     },
     "vital_status": "censored",
-    "vital_days_after_surgery": 1347
+    "vital_days_after_surgery": 1347,
+    "voxel_spacing": {
+      "x_spacing": 0.8730000257492065,
+      "y_spacing": 0.8730000257492065,
+      "z_spacing": 5.0
+    }
   },
   {
     "case_id": "case_00168",
@@ -12165,7 +13005,12 @@
       "days_before_nephrectomy": null
     },
     "vital_status": "censored",
-    "vital_days_after_surgery": 30
+    "vital_days_after_surgery": 30,
+    "voxel_spacing": {
+      "x_spacing": 0.7753909826278687,
+      "y_spacing": 0.7753909826278687,
+      "z_spacing": 5.0
+    }
   },
   {
     "case_id": "case_00169",
@@ -12237,7 +13082,12 @@
       "days_before_nephrectomy": 223
     },
     "vital_status": "censored",
-    "vital_days_after_surgery": 233
+    "vital_days_after_surgery": 233,
+    "voxel_spacing": {
+      "x_spacing": 0.7549999952316284,
+      "y_spacing": 0.7549999952316284,
+      "z_spacing": 5.0
+    }
   },
   {
     "case_id": "case_00170",
@@ -12309,7 +13159,12 @@
       "days_before_nephrectomy": null
     },
     "vital_status": "censored",
-    "vital_days_after_surgery": 11
+    "vital_days_after_surgery": 11,
+    "voxel_spacing": {
+      "x_spacing": 0.9765625,
+      "y_spacing": 0.9765625,
+      "z_spacing": 2.0
+    }
   },
   {
     "case_id": "case_00171",
@@ -12381,7 +13236,12 @@
       "days_before_nephrectomy": 2503
     },
     "vital_status": "censored",
-    "vital_days_after_surgery": 2900
+    "vital_days_after_surgery": 2900,
+    "voxel_spacing": {
+      "x_spacing": 0.759765625,
+      "y_spacing": 0.759765625,
+      "z_spacing": 5.0
+    }
   },
   {
     "case_id": "case_00172",
@@ -12453,7 +13313,12 @@
       "days_before_nephrectomy": 401
     },
     "vital_status": "censored",
-    "vital_days_after_surgery": 401
+    "vital_days_after_surgery": 401,
+    "voxel_spacing": {
+      "x_spacing": 0.765999972820282,
+      "y_spacing": 0.765999972820282,
+      "z_spacing": 5.0
+    }
   },
   {
     "case_id": "case_00173",
@@ -12525,7 +13390,12 @@
       "days_before_nephrectomy": 1087
     },
     "vital_status": "censored",
-    "vital_days_after_surgery": 1722
+    "vital_days_after_surgery": 1722,
+    "voxel_spacing": {
+      "x_spacing": 0.82421875,
+      "y_spacing": 0.82421875,
+      "z_spacing": 5.0
+    }
   },
   {
     "case_id": "case_00174",
@@ -12597,7 +13467,12 @@
       "days_before_nephrectomy": 1800
     },
     "vital_status": "censored",
-    "vital_days_after_surgery": 1765
+    "vital_days_after_surgery": 1765,
+    "voxel_spacing": {
+      "x_spacing": 0.736328125,
+      "y_spacing": 0.736328125,
+      "z_spacing": 3.0
+    }
   },
   {
     "case_id": "case_00175",
@@ -12669,7 +13544,12 @@
       "days_before_nephrectomy": 1890
     },
     "vital_status": "censored",
-    "vital_days_after_surgery": 1919
+    "vital_days_after_surgery": 1919,
+    "voxel_spacing": {
+      "x_spacing": 0.73046875,
+      "y_spacing": 0.73046875,
+      "z_spacing": 5.0
+    }
   },
   {
     "case_id": "case_00176",
@@ -12741,7 +13621,12 @@
       "days_before_nephrectomy": 426
     },
     "vital_status": "censored",
-    "vital_days_after_surgery": 765
+    "vital_days_after_surgery": 765,
+    "voxel_spacing": {
+      "x_spacing": 0.9765625,
+      "y_spacing": 0.9765625,
+      "z_spacing": 5.0
+    }
   },
   {
     "case_id": "case_00177",
@@ -12813,7 +13698,12 @@
       "days_before_nephrectomy": 749
     },
     "vital_status": "censored",
-    "vital_days_after_surgery": 749
+    "vital_days_after_surgery": 749,
+    "voxel_spacing": {
+      "x_spacing": 0.673828125,
+      "y_spacing": 0.673828125,
+      "z_spacing": 5.0
+    }
   },
   {
     "case_id": "case_00178",
@@ -12885,7 +13775,12 @@
       "days_before_nephrectomy": 1853
     },
     "vital_status": "censored",
-    "vital_days_after_surgery": 1895
+    "vital_days_after_surgery": 1895,
+    "voxel_spacing": {
+      "x_spacing": 0.865234375,
+      "y_spacing": 0.865234375,
+      "z_spacing": 5.0
+    }
   },
   {
     "case_id": "case_00179",
@@ -12957,7 +13852,12 @@
       "days_before_nephrectomy": 77
     },
     "vital_status": "dead",
-    "vital_days_after_surgery": 182
+    "vital_days_after_surgery": 182,
+    "voxel_spacing": {
+      "x_spacing": 0.7421875,
+      "y_spacing": 0.7421875,
+      "z_spacing": 5.0
+    }
   },
   {
     "case_id": "case_00180",
@@ -13029,7 +13929,12 @@
       "days_before_nephrectomy": 1678
     },
     "vital_status": "dead",
-    "vital_days_after_surgery": 2000
+    "vital_days_after_surgery": 2000,
+    "voxel_spacing": {
+      "x_spacing": 0.7409999966621399,
+      "y_spacing": 0.7409999966621399,
+      "z_spacing": 3.0
+    }
   },
   {
     "case_id": "case_00181",
@@ -13101,7 +14006,12 @@
       "days_before_nephrectomy": null
     },
     "vital_status": "dead",
-    "vital_days_after_surgery": 177
+    "vital_days_after_surgery": 177,
+    "voxel_spacing": {
+      "x_spacing": 0.693359375,
+      "y_spacing": 0.693359375,
+      "z_spacing": 5.0
+    }
   },
   {
     "case_id": "case_00182",
@@ -13173,7 +14083,12 @@
       "days_before_nephrectomy": null
     },
     "vital_status": "censored",
-    "vital_days_after_surgery": 1226
+    "vital_days_after_surgery": 1226,
+    "voxel_spacing": {
+      "x_spacing": 0.9375,
+      "y_spacing": 0.9375,
+      "z_spacing": 5.0
+    }
   },
   {
     "case_id": "case_00183",
@@ -13245,7 +14160,12 @@
       "days_before_nephrectomy": 1083
     },
     "vital_status": "censored",
-    "vital_days_after_surgery": 1092
+    "vital_days_after_surgery": 1092,
+    "voxel_spacing": {
+      "x_spacing": 0.70703125,
+      "y_spacing": 0.70703125,
+      "z_spacing": 1.5
+    }
   },
   {
     "case_id": "case_00184",
@@ -13317,7 +14237,12 @@
       "days_before_nephrectomy": 229
     },
     "vital_status": "censored",
-    "vital_days_after_surgery": 894
+    "vital_days_after_surgery": 894,
+    "voxel_spacing": {
+      "x_spacing": 0.83984375,
+      "y_spacing": 0.83984375,
+      "z_spacing": 5.0
+    }
   },
   {
     "case_id": "case_00185",
@@ -13389,7 +14314,12 @@
       "days_before_nephrectomy": null
     },
     "vital_status": "censored",
-    "vital_days_after_surgery": 0
+    "vital_days_after_surgery": 0,
+    "voxel_spacing": {
+      "x_spacing": 0.9121090173721313,
+      "y_spacing": 0.9121090173721313,
+      "z_spacing": 2.5
+    }
   },
   {
     "case_id": "case_00186",
@@ -13461,7 +14391,12 @@
       "days_before_nephrectomy": 698
     },
     "vital_status": "censored",
-    "vital_days_after_surgery": 698
+    "vital_days_after_surgery": 698,
+    "voxel_spacing": {
+      "x_spacing": 0.734375,
+      "y_spacing": 0.734375,
+      "z_spacing": 5.0
+    }
   },
   {
     "case_id": "case_00187",
@@ -13533,7 +14468,12 @@
       "days_before_nephrectomy": 640
     },
     "vital_status": "censored",
-    "vital_days_after_surgery": 980
+    "vital_days_after_surgery": 980,
+    "voxel_spacing": {
+      "x_spacing": 0.625,
+      "y_spacing": 0.625,
+      "z_spacing": 5.0
+    }
   },
   {
     "case_id": "case_00188",
@@ -13605,7 +14545,12 @@
       "days_before_nephrectomy": 1367
     },
     "vital_status": "censored",
-    "vital_days_after_surgery": 1529
+    "vital_days_after_surgery": 1529,
+    "voxel_spacing": {
+      "x_spacing": 0.6796875,
+      "y_spacing": 0.6796875,
+      "z_spacing": 1.0
+    }
   },
   {
     "case_id": "case_00189",
@@ -13677,7 +14622,12 @@
       "days_before_nephrectomy": 385
     },
     "vital_status": "dead",
-    "vital_days_after_surgery": 391
+    "vital_days_after_surgery": 391,
+    "voxel_spacing": {
+      "x_spacing": 0.7421875,
+      "y_spacing": 0.7421875,
+      "z_spacing": 5.0
+    }
   },
   {
     "case_id": "case_00190",
@@ -13749,7 +14699,12 @@
       "days_before_nephrectomy": 407
     },
     "vital_status": "censored",
-    "vital_days_after_surgery": 434
+    "vital_days_after_surgery": 434,
+    "voxel_spacing": {
+      "x_spacing": 0.72265625,
+      "y_spacing": 0.72265625,
+      "z_spacing": 3.0
+    }
   },
   {
     "case_id": "case_00191",
@@ -13821,7 +14776,12 @@
       "days_before_nephrectomy": null
     },
     "vital_status": "censored",
-    "vital_days_after_surgery": 394
+    "vital_days_after_surgery": 394,
+    "voxel_spacing": {
+      "x_spacing": 0.7421879768371582,
+      "y_spacing": 0.7421879768371582,
+      "z_spacing": 1.25
+    }
   },
   {
     "case_id": "case_00192",
@@ -13893,7 +14853,12 @@
       "days_before_nephrectomy": 1358
     },
     "vital_status": "censored",
-    "vital_days_after_surgery": 1400
+    "vital_days_after_surgery": 1400,
+    "voxel_spacing": {
+      "x_spacing": 0.78125,
+      "y_spacing": 0.78125,
+      "z_spacing": 5.0
+    }
   },
   {
     "case_id": "case_00193",
@@ -13965,7 +14930,12 @@
       "days_before_nephrectomy": 76
     },
     "vital_status": "dead",
-    "vital_days_after_surgery": 2479
+    "vital_days_after_surgery": 2479,
+    "voxel_spacing": {
+      "x_spacing": 0.703125,
+      "y_spacing": 0.703125,
+      "z_spacing": 1.25
+    }
   },
   {
     "case_id": "case_00194",
@@ -14037,7 +15007,12 @@
       "days_before_nephrectomy": 154
     },
     "vital_status": "censored",
-    "vital_days_after_surgery": 155
+    "vital_days_after_surgery": 155,
+    "voxel_spacing": {
+      "x_spacing": 0.75,
+      "y_spacing": 0.75,
+      "z_spacing": 5.0
+    }
   },
   {
     "case_id": "case_00195",
@@ -14109,7 +15084,12 @@
       "days_before_nephrectomy": 100
     },
     "vital_status": "dead",
-    "vital_days_after_surgery": 953
+    "vital_days_after_surgery": 953,
+    "voxel_spacing": {
+      "x_spacing": 0.763671875,
+      "y_spacing": 0.763671875,
+      "z_spacing": 5.0
+    }
   },
   {
     "case_id": "case_00196",
@@ -14181,7 +15161,12 @@
       "days_before_nephrectomy": 2380
     },
     "vital_status": "censored",
-    "vital_days_after_surgery": 2380
+    "vital_days_after_surgery": 2380,
+    "voxel_spacing": {
+      "x_spacing": 0.818359375,
+      "y_spacing": 0.818359375,
+      "z_spacing": 3.0
+    }
   },
   {
     "case_id": "case_00197",
@@ -14253,7 +15238,12 @@
       "days_before_nephrectomy": 737
     },
     "vital_status": "censored",
-    "vital_days_after_surgery": 737
+    "vital_days_after_surgery": 737,
+    "voxel_spacing": {
+      "x_spacing": 0.873046875,
+      "y_spacing": 0.873046875,
+      "z_spacing": 3.0
+    }
   },
   {
     "case_id": "case_00198",
@@ -14325,7 +15315,12 @@
       "days_before_nephrectomy": 722
     },
     "vital_status": "censored",
-    "vital_days_after_surgery": 883
+    "vital_days_after_surgery": 883,
+    "voxel_spacing": {
+      "x_spacing": 0.732421875,
+      "y_spacing": 0.732421875,
+      "z_spacing": 2.5
+    }
   },
   {
     "case_id": "case_00199",
@@ -14397,7 +15392,12 @@
       "days_before_nephrectomy": 357
     },
     "vital_status": "censored",
-    "vital_days_after_surgery": 357
+    "vital_days_after_surgery": 357,
+    "voxel_spacing": {
+      "x_spacing": 0.7421879768371582,
+      "y_spacing": 0.7421879768371582,
+      "z_spacing": 2.5
+    }
   },
   {
     "case_id": "case_00200",
@@ -14469,7 +15469,12 @@
       "days_before_nephrectomy": null
     },
     "vital_status": "censored",
-    "vital_days_after_surgery": 19
+    "vital_days_after_surgery": 19,
+    "voxel_spacing": {
+      "x_spacing": 0.7421875,
+      "y_spacing": 0.7421875,
+      "z_spacing": 4.0
+    }
   },
   {
     "case_id": "case_00201",
@@ -14541,7 +15546,12 @@
       "days_before_nephrectomy": 1080
     },
     "vital_status": "censored",
-    "vital_days_after_surgery": 1080
+    "vital_days_after_surgery": 1080,
+    "voxel_spacing": {
+      "x_spacing": 0.78125,
+      "y_spacing": 0.78125,
+      "z_spacing": 2.5
+    }
   },
   {
     "case_id": "case_00202",
@@ -14613,7 +15623,12 @@
       "days_before_nephrectomy": 1275
     },
     "vital_status": "censored",
-    "vital_days_after_surgery": 1147
+    "vital_days_after_surgery": 1147,
+    "voxel_spacing": {
+      "x_spacing": 0.8984379768371582,
+      "y_spacing": 0.8984379768371582,
+      "z_spacing": 1.25
+    }
   },
   {
     "case_id": "case_00203",
@@ -14685,7 +15700,12 @@
       "days_before_nephrectomy": 1206
     },
     "vital_status": "censored",
-    "vital_days_after_surgery": 1307
+    "vital_days_after_surgery": 1307,
+    "voxel_spacing": {
+      "x_spacing": 0.63671875,
+      "y_spacing": 0.63671875,
+      "z_spacing": 1.0
+    }
   },
   {
     "case_id": "case_00204",
@@ -14757,7 +15777,12 @@
       "days_before_nephrectomy": 1315
     },
     "vital_status": "censored",
-    "vital_days_after_surgery": 1315
+    "vital_days_after_surgery": 1315,
+    "voxel_spacing": {
+      "x_spacing": 0.875,
+      "y_spacing": 0.875,
+      "z_spacing": 3.0
+    }
   },
   {
     "case_id": "case_00205",
@@ -14829,7 +15854,12 @@
       "days_before_nephrectomy": 843
     },
     "vital_status": "censored",
-    "vital_days_after_surgery": 843
+    "vital_days_after_surgery": 843,
+    "voxel_spacing": {
+      "x_spacing": 0.78125,
+      "y_spacing": 0.78125,
+      "z_spacing": 5.0
+    }
   },
   {
     "case_id": "case_00206",
@@ -14901,7 +15931,12 @@
       "days_before_nephrectomy": 254
     },
     "vital_status": "censored",
-    "vital_days_after_surgery": 800
+    "vital_days_after_surgery": 800,
+    "voxel_spacing": {
+      "x_spacing": 0.970703125,
+      "y_spacing": 0.970703125,
+      "z_spacing": 5.0
+    }
   },
   {
     "case_id": "case_00207",
@@ -14973,7 +16008,12 @@
       "days_before_nephrectomy": 841
     },
     "vital_status": "dead",
-    "vital_days_after_surgery": 892
+    "vital_days_after_surgery": 892,
+    "voxel_spacing": {
+      "x_spacing": 0.75390625,
+      "y_spacing": 0.75390625,
+      "z_spacing": 5.0
+    }
   },
   {
     "case_id": "case_00208",
@@ -15045,7 +16085,12 @@
       "days_before_nephrectomy": 1030
     },
     "vital_status": "censored",
-    "vital_days_after_surgery": 1057
+    "vital_days_after_surgery": 1057,
+    "voxel_spacing": {
+      "x_spacing": 0.884765625,
+      "y_spacing": 0.884765625,
+      "z_spacing": 5.0
+    }
   },
   {
     "case_id": "case_00209",
@@ -15117,6 +16162,11 @@
       "days_before_nephrectomy": 1233
     },
     "vital_status": "censored",
-    "vital_days_after_surgery": 1319
+    "vital_days_after_surgery": 1319,
+    "voxel_spacing": {
+      "x_spacing": 0.78125,
+      "y_spacing": 0.78125,
+      "z_spacing": 5.0
+    }
   }
 ]
