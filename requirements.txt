@@ -1,4 +1,4 @@
-numpy
+pillow
 nibabel
 imageio
 requests
