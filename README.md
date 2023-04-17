@@ -1,10 +1,13 @@
+## NEW: The KiTS23 Challenge is Underway!
+
+See the [KiTS23 Homepage](https://kits-challenge.org/kits23/) for more details, including:
+
+- A larger dataset
+- Additional contrast phases
+
 # KiTS19
 
 The official [2019 KiTS Challenge](https://kits19.grand-challenge.org) repository.
-
-**Note**: The 2021 iteration of this challenge is in progress!
-- [KiTS21 GitHub](https://github.com/neheller/kits21)
-- [KiTS21 Homepage](https://kits21.kits-challenge.org/) (unfinished)
 
 ## Usage
 
