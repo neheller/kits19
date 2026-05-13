@@ -1,3 +1,10 @@
+## NEW: The KiTS23 Challenge is Underway!
+
+See the [KiTS23 Homepage](https://kits-challenge.org/kits23/) for more details, including:
+
+- A larger dataset
+- Additional contrast phases
+
 # KiTS19
 
 The official [2019 KiTS Challenge](https://kits19.grand-challenge.org) repository.
@@ -11,7 +18,9 @@ cd kits19
 pip3 install -r requirements.txt
 python3 -m starter_code.get_imaging
 ```
-This will download the much larger and static image files from a separate source. The `data/` directory should then be structured as follows
+This will download the much larger and static interpolated image files from the
+[`neheller/KiTS-Challenge-Imaging`](https://huggingface.co/datasets/neheller/KiTS-Challenge-Imaging)
+Hugging Face dataset. The `data/` directory should then be structured as follows
 
 ```
 data
@@ -91,7 +100,6 @@ We've gone to great lengths to produce the best segmentation labels that we coul
 
 If you find an problem with the data, please [submit an issue](https://github.com/neheller/kits19/issues/new) describing it. 
 
-
 ## Challenge Results and References
 
 The KiTS19 challenge was held in conjunction with MICCAI 2019 in Shenzhen, China. The official leaderboard for the challenge can be found [here](http://results.kits-challenge.org/miccai2019/), and the live leaderboard for new submissions can be found [on grand-challenge.org](https://kits19.grand-challenge.org/evaluation/results/). 
@@ -113,5 +121,4 @@ The KiTS19 challenge was held in conjunction with MICCAI 2019 in Shenzhen, China
   journal={arXiv preprint arXiv:1904.00445},
   year={2019}
 }
-```
 ```

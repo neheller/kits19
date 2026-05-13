@@ -8,8 +8,12 @@ from tqdm import tqdm
 import requests
 import numpy as np
 
-imaging_url = "https://kits19.sfo2.digitaloceanspaces.com/"
-imaging_name_tmplt = "interpolated_{:05d}.nii.gz"
+HF_DATASET_REPO = "neheller/KiTS-Challenge-Imaging"
+HF_DATASET_REVISION = "main"
+HF_DATASET_BASE_URL = (
+    "https://huggingface.co/datasets/{}/resolve/{}"
+    .format(HF_DATASET_REPO, HF_DATASET_REVISION)
+)
 temp_f = Path(__file__).parent / "temp.tmp"
 
 
@@ -42,8 +46,10 @@ if __name__ == "__main__":
             i+1, len(left_to_download)
         ))
         destination = get_destination(cid)
-        remote_name = imaging_name_tmplt.format(cid)
-        uri = imaging_url + remote_name 
+        uri = "{}/interpolated/images/case_{:05d}.nii.gz".format(
+            HF_DATASET_BASE_URL,
+            cid,
+        )
 
         chnksz = 1000
         tries = 0
@@ -81,3 +87,6 @@ if __name__ == "__main__":
             cleanup(bar, "KeyboardInterrupt")
         except Exception as e:
             cleanup(bar, str(e))
+
+
+
