@@ -18,7 +18,9 @@ cd kits19
 pip3 install -r requirements.txt
 python3 -m starter_code.get_imaging
 ```
-This will download the much larger and static image files from a separate source. The `data/` directory should then be structured as follows
+This will download the much larger and static image files from the
+[`neheller/KiTS-Challenge-Imaging`](https://huggingface.co/datasets/neheller/KiTS-Challenge-Imaging)
+Hugging Face dataset. The `data/` directory should then be structured as follows
 
 ```
 data

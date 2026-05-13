@@ -6,8 +6,12 @@ import time
 
 import requests
 
-imaging_url = "https://kits19.sfo2.digitaloceanspaces.com/"
-imaging_name_tmplt = "master_{:05d}.nii.gz"
+HF_DATASET_REPO = "neheller/KiTS-Challenge-Imaging"
+HF_DATASET_REVISION = "main"
+HF_DATASET_BASE_URL = (
+    "https://huggingface.co/datasets/{}/resolve/{}"
+    .format(HF_DATASET_REPO, HF_DATASET_REVISION)
+)
 temp_f = Path(__file__).parent / "temp.tmp"
 
 
@@ -27,8 +31,7 @@ def cleanup(msg):
 
 
 def download(cid):
-    remote_name = imaging_name_tmplt.format(cid)
-    url = imaging_url + remote_name
+    url = "{}/images/case_{:05d}.nii.gz".format(HF_DATASET_BASE_URL, cid)
     try:
         with requests.get(url, stream=True) as r:
             with temp_f.open('wb') as f:
